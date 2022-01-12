@@ -22,4 +22,6 @@ To contribute:
 
 ## Other Semesters
 
-[Summer 2021 - (Pitt-CSC List)](https://github.com/Pitt-CSC/Summer2021-Internships)
+ [Summer 2022 - (Pitt-CSC List)](https://github.com/Pitt-CSC/Summer2021-Internships)
+ 
+ [Fall 2021](https://github.com/BaruYogesh/Fall2021Internships)
