@@ -19,7 +19,7 @@ To contribute:
 | Name  |  Location | Application Period | Notes |
 |---|---|-------------|-------------|
 | [Affirm](https://boards.greenhouse.io/affirm/jobs/) | Remote | Not Opened | |
-| [Hubspot](https://www.hubspot.com/careers/jobs?hubs_signup-url=www.hubspot.com%2Fcareers&hubs_signup-cta=careers-homepage-hero&page=1) | Cambridge, Remote, Canada | | |
+| [Hubspot](https://www.hubspot.com/careers/jobs?hubs_signup-url=www.hubspot.com%2Fcareers&hubs_signup-cta=careers-homepage-hero&page=1) | Cambridge, Remote, Canada | | Fall Co-op|
 
 ## Other Semesters
 
