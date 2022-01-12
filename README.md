@@ -9,7 +9,9 @@ To contribute:
 ---
 
 📈 For tips on the internship process check out the [Zero to Offer program here](https://www.pittcs.wiki/zero-to-offer).  📈
+
 🤗 **Contribute by submitting a [pull request](https://github.com/susam/gitpr#create-pull-request)!**  🤗
+
 :warning: **This repository is only for internships/co-ops in the United States, Canada or for Remote positions:earth_americas:.**
 
 ## The List 👔
