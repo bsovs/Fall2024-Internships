@@ -19,6 +19,7 @@ To contribute:
 | Name  |  Location | Application Period | Notes |
 |---|---|-------------|-------------|
 | [Affirm](https://boards.greenhouse.io/affirm/jobs/) | Remote | Not Opened | |
+| [Hubspot](https://www.hubspot.com/careers/jobs?hubs_signup-cta=careers-nav-cta&page=1#office=remote;department=product-ux-engineering;roleType=intern;) | Remote (Canada & US) | Open | |
 
 ## Other Semesters
 
