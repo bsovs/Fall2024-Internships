@@ -24,8 +24,9 @@ To contribute:
 | [Amazon Robotics](https://www.amazon.jobs/en/jobs/1875642/amazon-robotics-software-development-engineer-sde-co-op-fall-2022?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Boston | Open | Must be eligible and available for a full-time (40h / week) 6-month co-op between June to December 2022 |
 | [Anduril](https://jobs.lever.co/anduril/f31aab9c-b194-49e8-ad2a-b7b631d9f8b0) | Seatle, WA OR Costa Mesa, CA | Open ||
 | [iRobot](https://irobot.wd5.myworkdayjobs.com/iRobot/job/US-MA-Bedford/Summer-Fall-2022--Software-Engineering-Co-op--Build---Tools--Undergraduate-_R2581-1?APPLICANT_SOURCE-6-108&source=Linkedin) | Bedford, MA | Open | |
-| [Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=3339295&gh_src=8363eca61) | New York | Open |
+| [Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=3339295&gh_src=8363eca61) | New York | Open | |
 | [PathAI](https://www.linkedin.com/jobs/view/2872381336) | Boston | Open | Applications open on LinkedIn |
+| [Tesla](https://www.tesla.com/en_CA/careers/search/?country=US&query=software%20Internship%20fall) | Palo Alto | Open | Mobile and Vehicle |
 
 ## Fall 2021
 | Name  |  Location | Application Period | Notes |
