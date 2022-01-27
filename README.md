@@ -31,6 +31,7 @@ It appears that bsovs fall 2022 internship list isn't being updated (for now) bu
 | [PathAI](https://www.linkedin.com/jobs/view/2872381336) | Boston | Open | Applications open on LinkedIn |
 | [Tesla](https://www.tesla.com/en_CA/careers/search/?country=US&query=software%20Internship%20fall) | Palo Alto | Open | Mobile and Vehicle |
 | [Raytheon](https://careers.rtx.com/global/en/job/01500475/Software-Engineer-Intern-(Hybrid)) | El Segundo, CA, Rockford, IL | Open | Applications open on LinkedIn|
+| [Robinhood](https://boards.greenhouse.io/robinhood/jobs/3335146?t=gh_src=&gh_jid=3335146) | Menlo Park, CA | Open | Apps open on greenhouse.io|
 
 ## Fall 2021
 | Name  |  Location | Application Period | Notes |
