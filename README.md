@@ -126,5 +126,7 @@ It appears that bsovs fall 2022 internship list isn't being updated (for now) bu
  
  ## Contributors
  pittcsc <3
+ 
  bsovs <3
+ 
  pranavshhh <3
