@@ -27,6 +27,7 @@ To contribute:
 | [Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=3339295&gh_src=8363eca61) | New York | Open | |
 | [PathAI](https://www.linkedin.com/jobs/view/2872381336) | Boston | Open | Applications open on LinkedIn |
 | [Tesla](https://www.tesla.com/en_CA/careers/search/?country=US&query=software%20Internship%20fall) | Palo Alto | Open | Mobile and Vehicle |
+| [Raytheon](https://careers.rtx.com/global/en/job/01500475/Software-Engineer-Intern-(Hybrid)) | El Segundo, CA, Rockford, IL | Open | Applications open on LinkedIn|
 
 ## Fall 2021
 | Name  |  Location | Application Period | Notes |
