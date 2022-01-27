@@ -6,6 +6,9 @@ To contribute:
  2. Edit README.md
  3. Open a pull request!
 
+Shoutout to bsovs and pittcsc for developing the initial framework and list. 
+It appears that bsovs fall 2022 internship list isn't being updated (for now) but if it does, I will stop updating this one and let them take care of it.
+
 ---
 
 📈 For tips on the internship process check out the [Zero to Offer program here](https://www.pittcs.wiki/zero-to-offer).  📈
@@ -120,3 +123,8 @@ To contribute:
  [Summer 2022 - (Pitt-CSC List)](https://github.com/Pitt-CSC/Summer2021-Internships)
  
  [Fall 2021](https://github.com/BaruYogesh/Fall2021Internships)
+ 
+ ## Contributors
+ pittcsc <3
+ bsovs <3
+ pranavshhh <3
