@@ -33,6 +33,7 @@ It appears that bsovs fall 2022 internship list isn't being updated (for now) bu
 | [Raytheon](https://careers.rtx.com/global/en/job/01500475/Software-Engineer-Intern-(Hybrid)) | El Segundo, CA, Rockford, IL | Open | Applications open on LinkedIn|
 | [Robinhood](https://boards.greenhouse.io/robinhood/jobs/3335146?t=gh_src=&gh_jid=3335146) | Menlo Park, CA | Open | Apps open on greenhouse.io|
 | [Lyft](https://www.lyft.com/careers/university) | San Francisco, Seattle, NYC | Open | Apps open on greenhouse.io, [SWE Generalist](https://boards.greenhouse.io/lyft/jobs/5446225002?gh_jid=5446225002), [Firmware Engineer](https://boards.greenhouse.io/lyft/jobs/5841277002?gh_jid=5841277002), [Technical Program Management](https://boards.greenhouse.io/lyft/jobs/5652092002?gh_jid=5652092002), [SWE Security](https://boards.greenhouse.io/lyft/jobs/5678162002?gh_jid=5678162002) positions are available|
+|[Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/) | Chicago, San Francisco, New York | Open | [Network Engineering](https://www.citadel.com/careers/details/network-engineering-internship/), [Core Engineering](https://www.citadel.com/careers/details/core-engineering-internship/), [Quantitative Research Analyst](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/), [Software Engineer](https://www.citadel.com/careers/details/software-engineer-intern-us/) positions are available. Apply through general application.
 
 ## Fall 2021
 | Name  |  Location | Application Period | Notes |
