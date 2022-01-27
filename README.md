@@ -133,4 +133,8 @@ It appears that bsovs fall 2022 internship list isn't being updated (for now) bu
  
  bsovs <3
  
- pranavshhh <3
+ pranavshhh/FireTeamSix/Zenit <3
+ 
+ Hexis <3
+ 
+ BBB <3
