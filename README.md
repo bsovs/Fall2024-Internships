@@ -33,6 +33,7 @@ It appears that bsovs fall 2022 internship list isn't being updated (for now) bu
 | [Raytheon](https://careers.rtx.com/global/en/job/01500475/Software-Engineer-Intern-(Hybrid)) | El Segundo, CA, Rockford, IL | Open | Applications open on LinkedIn|
 | [Robinhood](https://boards.greenhouse.io/robinhood/jobs/3335146?t=gh_src=&gh_jid=3335146) | Menlo Park, CA | Open | Apps open on greenhouse.io|
 | [Lyft](https://www.lyft.com/careers/university) | San Francisco, Seattle, NYC | Open | Apps open on greenhouse.io, [SWE Generalist](https://boards.greenhouse.io/lyft/jobs/5446225002?gh_jid=5446225002), [Firmware Engineer](https://boards.greenhouse.io/lyft/jobs/5841277002?gh_jid=5841277002), [Technical Program Management](https://boards.greenhouse.io/lyft/jobs/5652092002?gh_jid=5652092002), [SWE Security](https://boards.greenhouse.io/lyft/jobs/5678162002?gh_jid=5678162002) positions are available|
+| [AMD](https://jobs.amd.com/go/Internships-&-Co-op-Opportunities/2567200/?q=&title=fall+2022&sortColumn=referencedate&sortDirection=desc) | Boxborough, MA, Austin, TX | Open | [3D Graphics Drivers Intern](https://jobs.amd.com/job/Boxborough-Summer-Fall-2022-3D-Graphics-Driver-Co-OpIntern-%28136581%29-Mass/838675400/), [ICT Firmware Intern](https://jobs.amd.com/job/Austin-Summer-Fall-2022-ICT-Firmware-Co-OpIntern-%28134081%29-Texa/835413600/) positions are available. There are more HWE internships on the website as well, some of which may accept CS majors.|
 
 
 ## Fall 2021
