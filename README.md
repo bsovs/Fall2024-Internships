@@ -1,7 +1,7 @@
 # Fall2022-Internships
 Collection of Fall 2022 tech internships!
 
-Shoutout to bsovs and pittcsc for developing the initial framework and list. 
+Shoutout to GitHub user [bsovs](https://github.com/bsovs) and [The Pitt CS Club](https://github.com/pittcsc) for developing the initial framework and list. 
 It appears that bsovs fall 2022 internship list isn't being updated (for now) but if it does, I will stop updating this one and let them take care of it.
 
 To contribute:
