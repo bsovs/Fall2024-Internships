@@ -32,12 +32,12 @@ To contribute:
 | [Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=3339295&gh_src=8363eca61) | New York | Open | |
 | [PathAI](https://www.linkedin.com/jobs/view/2872381336) | Boston | Open | Applications open on LinkedIn |
 | [Tesla](https://www.tesla.com/en_CA/careers/search/?country=US&query=software%20Internship%20fall) | Palo Alto | Open | Mobile and Vehicle |
+| [Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/) | New York OR Chicago | Open | Same link as Summer 2022, just a dropdown |
 | [Raytheon](https://careers.rtx.com/global/en/job/01500475/Software-Engineer-Intern-(Hybrid)) | El Segundo, CA, Rockford, IL | Open | Applications open on LinkedIn|
 | [Robinhood](https://boards.greenhouse.io/robinhood/jobs/3335146?t=gh_src=&gh_jid=3335146) | Menlo Park, CA | Open | Apps open on greenhouse.io|
 | [Lyft](https://www.lyft.com/careers/university) | San Francisco, Seattle, NYC | Open | Apps open on greenhouse.io, [SWE Generalist Intern](https://boards.greenhouse.io/lyft/jobs/5446225002?gh_jid=5446225002), [Firmware Engineer Intern](https://boards.greenhouse.io/lyft/jobs/5841277002?gh_jid=5841277002), [Technical Program Management Intern](https://boards.greenhouse.io/lyft/jobs/5652092002?gh_jid=5652092002), [SWE Security Intern](https://boards.greenhouse.io/lyft/jobs/5678162002?gh_jid=5678162002) positions are available|
 | [AMD](https://jobs.amd.com/go/Internships-&-Co-op-Opportunities/2567200/?q=&title=fall+2022&sortColumn=referencedate&sortDirection=desc) | Boxborough, MA, Austin, TX | Open | [3D Graphics Drivers Intern](https://jobs.amd.com/job/Boxborough-Summer-Fall-2022-3D-Graphics-Driver-Co-OpIntern-%28136581%29-Mass/838675400/), [ICT Firmware Intern](https://jobs.amd.com/job/Austin-Summer-Fall-2022-ICT-Firmware-Co-OpIntern-%28134081%29-Texa/835413600/) positions are available. There are more HWE internships on the website as well, some of which may accept CS majors.|
 | [Chewy](https://careers.chewy.com/us/en/search-results) | Boston | Open | [Software Development Engineer Intern](https://careers.chewy.com/us/en/job/3456605/2022-Software-Development-Intern) position available. Simply select Fall in the dropdown |
-
 
 ## Fall 2021
 | Name  |  Location | Application Period | Notes |
