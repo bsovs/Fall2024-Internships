@@ -40,6 +40,8 @@ To contribute:
 | [AMD](https://jobs.amd.com/go/Internships-&-Co-op-Opportunities/2567200/?q=&title=fall+2022&sortColumn=referencedate&sortDirection=desc) | Boxborough, MA, Austin, TX | Open | [3D Graphics Drivers Intern](https://jobs.amd.com/job/Boxborough-Summer-Fall-2022-3D-Graphics-Driver-Co-OpIntern-%28136581%29-Mass/838675400/), [ICT Firmware Intern](https://jobs.amd.com/job/Austin-Summer-Fall-2022-ICT-Firmware-Co-OpIntern-%28134081%29-Texa/835413600/) positions are available. There are more HWE internships on the website as well, some of which may accept CS majors.|
 | [Chewy](https://careers.chewy.com/us/en/search-results) | Boston | Open | [Software Development Engineer Intern](https://careers.chewy.com/us/en/job/3456605/2022-Software-Development-Intern) position available. Simply select Fall in the dropdown |
 | [Block](https://www.smartrecruiters.com/Square/743999802028687) | San Francisco | Open | Mobile Dev (Square). [All Positions](https://block.xyz/careers?types=Intern) |
+| [Cisco](https://jobs.cisco.com/jobs/ProjectDetail?projectId=1363036) | San Francisco (Some Remote) | Open | Full Stack Dev |
+
 
 ## Fall 2021
 | Name  |  Location | Application Period | Notes |
