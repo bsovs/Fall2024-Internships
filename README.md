@@ -41,6 +41,7 @@ To contribute:
 | [Chewy](https://careers.chewy.com/us/en/search-results) | Boston | Open | [Software Development Engineer Intern](https://careers.chewy.com/us/en/job/3456605/2022-Software-Development-Intern) position available. Simply select Fall in the dropdown |
 | [Block](https://www.smartrecruiters.com/Square/743999802028687) | San Francisco | Open | Mobile Dev (Square). [All Positions](https://block.xyz/careers?types=Intern) |
 | [Cisco](https://jobs.cisco.com/jobs/ProjectDetail?projectId=1363036) | San Francisco (Some Remote) | Open | Full Stack Dev |
+| [Spotify](https://jobs.lever.co/spotify/?commitment=Internship) | USA (Some Remote) | Open | Multiple Roles - 6 month from July/August |
 
 
 ## Fall 2021
