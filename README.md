@@ -30,7 +30,6 @@ To contribute:
 | [Anduril](https://jobs.lever.co/anduril/f31aab9c-b194-49e8-ad2a-b7b631d9f8b0) | Seatle, WA OR Costa Mesa, CA | Open ||
 | [iRobot](https://irobot.wd5.myworkdayjobs.com/iRobot/job/US-MA-Bedford/Summer-Fall-2022--Software-Engineering-Co-op--Build---Tools--Undergraduate-_R2581-1?APPLICANT_SOURCE-6-108&source=Linkedin) | Bedford, MA | Open | |
 | [Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=3339295&gh_src=8363eca61) | New York | Open | |
-| [PathAI](https://www.linkedin.com/jobs/view/2872381336) | Boston | Open | Applications open on LinkedIn |
 | [Tesla](https://www.tesla.com/en_CA/careers/search/?country=US&query=software%20Internship%20fall) | Palo Alto | Open | Mobile and Vehicle |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/7/refreshFacet/318c8bb6f553100021d223d9780d30be) | Santa Clara | Open | |
 | [Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/) | New York OR Chicago | Open | Same link as Summer 2022, just a dropdown |
