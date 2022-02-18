@@ -42,6 +42,8 @@ To contribute:
 | [Block](https://www.smartrecruiters.com/Square/743999802028687) | San Francisco | Open | Mobile Dev (Square). [All Positions](https://block.xyz/careers?types=Intern) |
 | [Cisco](https://jobs.cisco.com/jobs/ProjectDetail?projectId=1363036) | San Francisco (Some Remote) | Open | Full Stack Dev |
 | [Spotify](https://jobs.lever.co/spotify/?commitment=Internship) | USA (Some Remote) | Open | Multiple Roles - 6 month from July/August |
+| [PathAI](https://www.pathai.com/join-our-team/careers/?gh_jid=5825951002) | Boston/Remote| Open | 4-6 months from Sept - December |
+
 
 
 ## Fall 2021
