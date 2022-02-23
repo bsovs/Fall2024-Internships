@@ -42,6 +42,7 @@ To contribute:
 | [Cisco](https://jobs.cisco.com/jobs/ProjectDetail?projectId=1363036) | San Francisco (Some Remote) | Open | Full Stack Dev |
 | [Spotify](https://jobs.lever.co/spotify/?commitment=Internship) | USA (Some Remote) | Open | Multiple Roles - 6 month from July/August |
 | [PathAI](https://www.pathai.com/join-our-team/careers/?gh_jid=5825951002) | Boston/Remote| Open | 4-6 months from Sept - December |
+| [Acoustic](https://careers-acoustic.icims.com/jobs/2615/software-engineer-internship---fall-2022/job?hub=7) | Conway, AR/Remote| Open | Software Engineer Internship - Fall 2022 (looking for juniors and seniors) |
 
 
 
