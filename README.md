@@ -43,6 +43,8 @@ To contribute:
 | [Spotify](https://jobs.lever.co/spotify/?commitment=Internship) | USA (Some Remote) | Open | Multiple Roles - 6 month from July/August |
 | [PathAI](https://www.pathai.com/join-our-team/careers/?gh_jid=5825951002) | Boston/Remote| Open | 4-6 months from Sept - December |
 | [Acoustic](https://careers-acoustic.icims.com/jobs/2615/software-engineer-internship---fall-2022/job?hub=7) | Conway, AR/Remote| Open | Software Engineer Internship - Fall 2022 (looking for juniors and seniors) |
+| [Aloft](https://boards.greenhouse.io/aloft/jobs/4163904004) | Seattle, WA | Open | Software Engineer Internship - Fall 2022|
+| [Varda](https://boards.greenhouse.io/vardaspace/jobs/4938904003) | Los Angeles, CA| Open | Software Engineer Internship - Fall 2022 |
 
 
 
