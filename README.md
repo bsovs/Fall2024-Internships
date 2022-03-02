@@ -45,6 +45,7 @@ To contribute:
 | [Acoustic](https://careers-acoustic.icims.com/jobs/2615/software-engineer-internship---fall-2022/job?hub=7) | Conway, AR/Remote| Open | Software Engineer Internship - Fall 2022 (looking for juniors and seniors) |
 | [Aloft](https://boards.greenhouse.io/aloft/jobs/4163904004) | Seattle, WA | Open | Software Engineer Internship - Fall 2022|
 | [Varda](https://boards.greenhouse.io/vardaspace/jobs/4938904003) | Los Angeles, CA| Open | Software Engineer Internship - Fall 2022 |
+| [Cockroach Labs](https://www.cockroachlabs.com/careers/jobs/?gh_jid=3860958) | Unsure | Open | Software Engineer Internship - Fall 2022 |
 
 
 
