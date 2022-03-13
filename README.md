@@ -7,7 +7,7 @@ Shoutout to GitHub user **[bsovs](https://github.com/bsovs)** and **[The Pitt CS
 
 <div align="center">
 	<p>
-		<a href="https://simplify.jobs/?utm_source=pittcsc&utm_medium=internships_repo">
+		<a href="https://simplify.jobs/?invite=2d8fe25021b&utm_source=referral">
 			<b>Applying to internships?</b>
 			<br>
 			Autofill all your applications in a single click.
