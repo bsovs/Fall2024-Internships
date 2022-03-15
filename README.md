@@ -71,6 +71,7 @@ To contribute:
 | [Meta](https://www.metacareers.com/jobs/651492202876559/?rx_campaign=Linkedin1&rx_group=126320&rx_job=a1K2K000008T8f6UAC_aafedf41&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20220302T180302Z&utm_campaign=Job%2Bboard&utm_medium=jobs&utm_source=LIpaid&rx_viewer=fba0cd739a8511ec87148b7e9558b76885e57e351f9344178adc3d0104db7076) | Remote | Open | Software Engineer, Intern/Co-Op 
 | [Astranis](https://jobs.lever.co/astranis/7abd6407-c1aa-4e96-b3d9-bfb151569342?lever-source=LinkedInJobs) | San Francisco, CA | Open | Ground Software — Intern (Summer/Fall 2022) |
 | [Volvo Group](https://xjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25079&siteid=5171&AReq=122433BR&codes=LinkedIn#jobDetails=731162_5171) | U.S. | Open | Intern: Software Engineering (Fall 2022) |
+| [BitGo](https://boards.greenhouse.io/bitgo) | U.S. | Open | Early Talent > Hiring for both Summer & Fall (Intern) |
 
 
 ## Other Semesters
