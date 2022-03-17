@@ -64,9 +64,9 @@ To contribute:
 | [Spotify](https://jobs.lever.co/spotify/?commitment=Internship) | USA (Some Remote) | Open | Multiple Roles - 6 month from July/August |
 | [PathAI](https://www.pathai.com/join-our-team/careers/?gh_jid=5825951002) | Boston/Remote| Open | 4-6 months from Sept - December |
 | [Acoustic](https://careers-acoustic.icims.com/jobs/2615/software-engineer-internship---fall-2022/job?hub=7) | Conway, AR/Remote| Open | Software Engineer Internship - Fall 2022 (looking for juniors and seniors) |
-| [Rippling](https://www.rippling.com/careers/4747010003?gh_jid=4747010003) | San Francisco | Open | Software Engineer Internship - Fall 2022|
+| [Rippling](https://www.rippling.com/careers/4747010003?gh_jid=4747010003) | San Francisco | Closed | Software Engineer Internship - Fall 2022|
 | [Varda](https://boards.greenhouse.io/vardaspace/jobs/4938904003) | Los Angeles, CA | Open | Software Engineer Internship - Fall 2022 |
-| [Cockroach Labs](https://www.cockroachlabs.com/careers/jobs/?gh_jid=3860958) | No Location Listed | Closed | Software Engineer Internship - Fall 2022 |
+| [Cockroach Labs](https://www.cockroachlabs.com/careers/jobs/?gh_jid=3860958) | No Location Listed | Open | Software Engineer Internship - Fall 2022 |
 | [Carrier](https://jobs.carrier.com/job/pittsford/software-developer-fall-2022-co-op/29289/24121299312) | Pittsford, NY | Open | SOFTWARE DEVELOPER FALL 2022 CO-OP, Also Open for [SUSTAINING SOFTWARE ENGINEER FALL 2022 CO-OP](https://jobs.carrier.com/job/pittsford/sustaining-software-engineer-fall-2022-co-op/29289/24174954736). US Citizen & Permanent Residents Only |
 | [Meta](https://www.metacareers.com/jobs/651492202876559/?rx_campaign=Linkedin1&rx_group=126320&rx_job=a1K2K000008T8f6UAC_aafedf41&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20220302T180302Z&utm_campaign=Job%2Bboard&utm_medium=jobs&utm_source=LIpaid&rx_viewer=fba0cd739a8511ec87148b7e9558b76885e57e351f9344178adc3d0104db7076) | Remote | Open | Software Engineer, Intern/Co-Op 
 | [Astranis](https://jobs.lever.co/astranis/7abd6407-c1aa-4e96-b3d9-bfb151569342?lever-source=LinkedInJobs) | San Francisco, CA | Open | Ground Software — Intern (Summer/Fall 2022) |
