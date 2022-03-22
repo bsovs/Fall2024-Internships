@@ -73,6 +73,7 @@ To contribute:
 | [Volvo Group](https://xjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25079&siteid=5171&AReq=122433BR&codes=LinkedIn#jobDetails=731162_5171) | U.S. | Open | Intern: Software Engineering (Fall 2022) |
 | [BitGo](https://boards.greenhouse.io/bitgo) | U.S. | Open | Early Talent > Hiring for both Summer & Fall (Intern) |
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/5584758002/) | New York | Open | Must be enrolled in a co-op program at your university |
+| [SingleStore](https://boards.greenhouse.io/singlestore/jobs/3401551) | San Francisco, CA/Remote | Open | Software Engineer Internship |
 
 
 ## Other Semesters
