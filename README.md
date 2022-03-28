@@ -74,6 +74,7 @@ To contribute:
 | [BitGo](https://boards.greenhouse.io/bitgo) | U.S. | Closed | Early Talent > Hiring for both Summer & Fall (Intern) |
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/5584758002/) | New York | Open | Must be enrolled in a co-op program at your university |
 | [SingleStore](https://boards.greenhouse.io/singlestore/jobs/3401551) | San Francisco, CA/Remote | Open | Software Engineer Internship |
+| [Plexus](https://plexus.wd5.myworkdayjobs.com/Plexus_Careers/job/Raleigh-NC/Intern---Software-Engineer--Fall-2022-_R014634) | Neenah, WI OR Raleigh, NC | Open | Software Engineer Internship (Full Time) |
 
 
 ## Other Semesters
