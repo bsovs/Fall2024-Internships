@@ -46,6 +46,7 @@ To contribute:
 | [Affirm](https://boards.greenhouse.io/affirm/jobs/) | Remote | Not Opened | |
 | [Hubspot](https://www.hubspot.com/careers/jobs?hubs_signup-cta=careers-nav-cta&page=1#office=remote;department=product-ux-engineering;roleType=intern;) | Remote (Canada & US) | Closed | |
 | [TikTok](https://careers.tiktok.com/position/7047254937289853197/detail) | Mountain View | Open | Application deadline: August 5, 2022 |
+| [Amazon Web Services](https://www.amazon.jobs/en/jobs/2002577/software-dev-engineer-intern-fall-2022?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Arlington | Open | US Citizens only, required to maintain active TS/SCI security clearance |
 | [Amazon Robotics](https://www.amazon.jobs/en/jobs/1875642/amazon-robotics-software-development-engineer-sde-co-op-fall-2022?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Boston | Open | Must be eligible and available for a full-time (40h / week) 6-month co-op between June to December 2022 |
 | [Anduril](https://jobs.lever.co/anduril/f31aab9c-b194-49e8-ad2a-b7b631d9f8b0) | Seatle, WA OR Costa Mesa, CA | Closed ||
 | [Electronic Arts](https://ea.gr8people.com/jobs/170918/fall-2022-software-engineer-intern?sid=4) | Orlando, FL/Remote | Open | Software Engineer Intern (Full-Time) |
