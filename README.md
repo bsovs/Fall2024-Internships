@@ -78,6 +78,7 @@ To contribute:
 | [Plexus](https://plexus.wd5.myworkdayjobs.com/Plexus_Careers/job/Raleigh-NC/Intern---Software-Engineer--Fall-2022-_R014634) | Neenah, WI OR Raleigh, NC | Open | Software Engineer Internship (Full Time) |
 | [IBM](https://careers.ibm.com/job/14818791/technical-support-developer-co-op-summer-fall-2022-san-jose-ca/?codes=IBM_CareerWebSite) | San Jose| Closed | Technical Support Developer Co-op (Summer + Fall 2022) |
 | [Amazon.com LLC](https://www.amazon.jobs/en/jobs/2001645/software-development-engineer-internship-fall-2022-us?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | U.S. | Closed | Software Development Engineer Internship - Fall 2022 (US), Job ID: 2001645 |
+| [Kodiak Robotics](https://jobs.lever.co/kodiak) | Mountain View, CA | Open | Fall 2022 Intern, Deep Learning for Computer Vision; Fall 2022 Intern, Perception; Fall 2022 Software Internship |
 
 ## Other Semesters
 
