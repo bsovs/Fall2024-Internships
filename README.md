@@ -54,7 +54,7 @@ To contribute:
 | [Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=3339295&gh_src=8363eca61) | New York | Open | |
 | [Tesla](https://www.tesla.com/en_CA/careers/search/?country=US&query=software%20Internship%20fall) | Palo Alto | Open | Mobile and Vehicle |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/7/refreshFacet/318c8bb6f553100021d223d9780d30be) | Santa Clara | Open | |
-| [Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/) | New York OR Chicago | Open | Same link as Summer 2022, just a dropdown |
+| [Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/) | New York OR Chicago | Closed | No application page open at the moment. Normally it is the same link as Summer 2022, just a dropdown |
 | [Raytheon](https://careers.rtx.com/global/en/job/01500475/Software-Engineer-Intern-(Hybrid)) | El Segundo, CA, Rockford, IL | Closed | Applications open on LinkedIn |
 | [Robinhood](https://boards.greenhouse.io/robinhood/jobs/3335146?t=gh_src=&gh_jid=3335146) | Menlo Park, CA | Open | Apps open on greenhouse.io |
 | [Lyft](https://www.lyft.com/careers/university) | San Francisco, Seattle, NYC | Open | Apps open on greenhouse.io, ~~[SWE Generalist Intern](https://boards.greenhouse.io/lyft/jobs/5446225002?gh_jid=5446225002)~~, [Firmware Engineer Intern](https://boards.greenhouse.io/lyft/jobs/5841277002?gh_jid=5841277002), ~~[Technical Program Management Intern](https://boards.greenhouse.io/lyft/jobs/5652092002?gh_jid=5652092002)~~, ~~[SWE Security Intern](https://boards.greenhouse.io/lyft/jobs/5678162002?gh_jid=5678162002)~~ positions are available |
