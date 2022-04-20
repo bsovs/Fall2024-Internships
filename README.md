@@ -56,7 +56,7 @@ To contribute:
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/7/refreshFacet/318c8bb6f553100021d223d9780d30be) | Santa Clara | Open | |
 | [Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/) | New York OR Chicago | Closed | No application page open at the moment. Normally it is the same link as Summer 2022, just a dropdown |
 | [Raytheon](https://careers.rtx.com/global/en/job/01500475/Software-Engineer-Intern-(Hybrid)) | El Segundo, CA, Rockford, IL | Closed | Applications open on LinkedIn |
-| [Robinhood](https://boards.greenhouse.io/robinhood/jobs/3335146?t=gh_src=&gh_jid=3335146) | Menlo Park, CA | Open | Apps open on greenhouse.io |
+| [Robinhood](https://boards.greenhouse.io/robinhood/jobs/3335146?t=gh_src=&gh_jid=3335146) | Menlo Park, CA | Open | Android Engineer Intern, apps open on greenhouse.io |
 | [Lyft](https://www.lyft.com/careers/university) | San Francisco, Seattle, NYC | Open | Apps open on greenhouse.io, ~~[SWE Generalist Intern](https://boards.greenhouse.io/lyft/jobs/5446225002?gh_jid=5446225002)~~, [Firmware Engineer Intern](https://boards.greenhouse.io/lyft/jobs/5841277002?gh_jid=5841277002), ~~[Technical Program Management Intern](https://boards.greenhouse.io/lyft/jobs/5652092002?gh_jid=5652092002)~~, ~~[SWE Security Intern](https://boards.greenhouse.io/lyft/jobs/5678162002?gh_jid=5678162002)~~ positions are available |
 | [AMD](https://jobs.amd.com/go/Internships-&-Co-op-Opportunities/2567200/?q=&title=fall+2022&sortColumn=referencedate&sortDirection=desc) | Boxborough, MA, Austin, TX | Open | [3D Graphics Drivers Intern](https://jobs.amd.com/job/Boxborough-Summer-Fall-2022-3D-Graphics-Driver-Co-OpIntern-%28136581%29-Mass/838675400/), [ICT Firmware Intern](https://jobs.amd.com/job/Austin-Summer-Fall-2022-ICT-Firmware-Co-OpIntern-%28134081%29-Texa/835413600/) positions are available. There are more HWE internships on the website as well, some of which may accept CS majors. |
 | [Chewy](https://careers.chewy.com/us/en/search-results) | Boston | Closed | [Software Development Engineer Intern](https://careers.chewy.com/us/en/job/3456605/2022-Software-Development-Intern) position available. Simply select Fall in the dropdown |
@@ -80,6 +80,9 @@ To contribute:
 | [Amazon.com LLC](https://www.amazon.jobs/en/jobs/2013931/software-development-engineer-internship-fall-2022-us) | U.S. | Open | Software Development Engineer Internship - Fall 2022 (US), Job ID: 2013931 |
 | [Kodiak Robotics](https://jobs.lever.co/kodiak) | Mountain View, CA | Open | Fall 2022 Intern, Deep Learning for Computer Vision; Fall 2022 Intern, Perception; Fall 2022 Software Internship |
 | [Toast](https://careers.toasttab.com/jobs/software-engineer-co-op-fall-2022-remote-united-states) | Remote | Open | Software Engineer Co-op: Fall 2022 |
+| [Wayfair](https://www.wayfair.com/careers/job/software-engineering-co-op---july-2022/5822320002/apply) | Boston, MA | Open | 6-month Software Engineering Co-op from July 11th, 2022-December 16th, 2022 |
+| [Leidos](https://careers.leidos.com/jobs/8600490-engineering-co-op-summer-slash-fall-2022) | Bethesda, MD | Open | Must be available to work at least 6 months full time as a co-op,  U.S. Citizenship and eligibility to obtain a U.S. Government granted security clearance is needed|
+
 ## Other Semesters
 
 [Summer 2022 - (Pitt-CSC List)](https://github.com/Pitt-CSC/Summer2021-Internships)
