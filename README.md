@@ -82,6 +82,7 @@ To contribute:
 | [Toast](https://careers.toasttab.com/jobs/software-engineer-co-op-fall-2022-remote-united-states) | Remote | Closed | Software Engineer Co-op: Fall 2022 |
 | [Wayfair](https://www.wayfair.com/careers/job/software-engineering-co-op---july-2022/5822320002/apply) | Boston, MA | Open | 6-month Software Engineering Co-op from July 11th, 2022-December 16th, 2022 |
 | [Leidos](https://careers.leidos.com/jobs/8600490-engineering-co-op-summer-slash-fall-2022) | Bethesda, MD | Open | Must be available to work at least 6 months full time as a co-op,  U.S. Citizenship and eligibility to obtain a U.S. Government granted security clearance is needed|
+| [Coinbase](https://www.coinbase.com/careers/positions/4177850) | Remote | Open | Intern: Software Engineer (Fall 2022)|
 
 ## Other Semesters
 
