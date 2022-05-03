@@ -84,7 +84,7 @@ To contribute:
 | [Leidos](https://careers.leidos.com/jobs/8600490-engineering-co-op-summer-slash-fall-2022) | Bethesda, MD | Open | Must be available to work at least 6 months full time as a co-op,  U.S. Citizenship and eligibility to obtain a U.S. Government granted security clearance is needed|
 | [Coinbase](https://www.coinbase.com/careers/positions/4177850) | Remote | Closed | Intern: Software Engineer (Fall 2022)|
 | [Zoom](https://careers.zoom.us/jobs/2022-software-engineer-intern-fall) | U.S. | Open | Intern: Software Engineer (Fall 2022)|
-| [Salesforce] (https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineer-Fall-Co-op--Fullstack----Sales-Cloud--SFA_JR149051-1?source=LinkedIn_Jobs) | U.S. | Open | Intern: Software Engineering Co-op (Fullstack)
+| [Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineer-Fall-Co-op--Fullstack----Sales-Cloud--SFA_JR149051-1?source=LinkedIn_Jobs) | U.S. | Open | Intern: Software Engineering Co-op (Fullstack)
 
 ## Other Semesters
 
