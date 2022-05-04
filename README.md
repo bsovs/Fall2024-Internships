@@ -86,6 +86,8 @@ To contribute:
 | [Zoom](https://careers.zoom.us/jobs/2022-software-engineer-intern-fall) | U.S. | Closed | Intern: Software Engineer (Fall 2022)|
 | [Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineer-Fall-Co-op--Fullstack----Sales-Cloud--SFA_JR149051-1?source=LinkedIn_Jobs) | U.S. | Open | Software Engineering Co-op (Fullstack)
 | [Google](https://careers.google.com/jobs/results/82487630584783558-software-engineering-intern-bs-fall-2022/) | U.S. | Open | Software Engineering Intern, BS Fall 2022
+| [Ramp](https://boards.greenhouse.io/ramp) | New York, NY | Open | Front-End and Back-End Software Engineer Internship
+| [Cash App](https://www.smartrecruiters.com/Square/743999823926808) | San Francisco | Open | Mobile Software Engineer Intern
 
 ## Other Semesters
 
