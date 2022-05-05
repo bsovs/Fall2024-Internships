@@ -88,6 +88,7 @@ To contribute:
 | [Google](https://careers.google.com/jobs/results/82487630584783558-software-engineering-intern-bs-fall-2022/) | U.S. | Open | Software Engineering Intern, BS Fall 2022
 | [Ramp](https://boards.greenhouse.io/ramp) | New York, NY | Open | Front-End and Back-End Software Engineer Internship
 | [Cash App](https://www.smartrecruiters.com/Square/743999823926808) | San Francisco | Open | Mobile Software Engineer Intern
+| [Microsoft](https://careers.microsoft.com/us/en/job/1334911/Software-Engineer-Intern-Opportunities%20) | Canada | Open | Software Engineer Intern
 
 ## Other Semesters
 
