@@ -89,6 +89,7 @@ To contribute:
 | [Ramp](https://boards.greenhouse.io/ramp) | New York, NY | Open | Front-End and Back-End Software Engineer Internship
 | [Cash App](https://www.smartrecruiters.com/Square/743999823926808) | San Francisco | Open | Mobile Software Engineer Intern
 | [Microsoft](https://careers.microsoft.com/us/en/job/1334911/Software-Engineer-Intern-Opportunities%20) | Canada | Open | Software Engineer Intern
+| [Wealthsimple](https://jobs.lever.co/wealthsimple?commitment=Intern) | Canada/Remote | Open | [Software Engineer Intern (Fall 2022)](https://jobs.lever.co/wealthsimple/03d94fef-95db-43b1-9617-52c51165173e), [Data Science Intern (Fall 2022)](https://jobs.lever.co/wealthsimple/ce20c336-40e8-4ba1-87d9-3262c8988395)
 
 ## Other Semesters
 
