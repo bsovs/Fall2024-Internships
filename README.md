@@ -89,6 +89,7 @@ To contribute:
 | [Ramp](https://boards.greenhouse.io/ramp) | New York, NY | Open | Front-End and Back-End Software Engineer Internship
 | [Cash App](https://www.smartrecruiters.com/Square/743999823926808) | San Francisco | Open | Mobile Software Engineer Intern
 | [Microsoft](https://careers.microsoft.com/us/en/job/1334911/Software-Engineer-Intern-Opportunities%20) | Canada | Open | Software Engineer Intern
+| [Innovative Systems](http://career.innovativesystems.com/apply/1NkQ6PR9zP/InternCoopFALL-2022-Software-Engineering) | Pittsburgh, PA | Open | Software Engineering Intern
 
 ## Other Semesters
 
