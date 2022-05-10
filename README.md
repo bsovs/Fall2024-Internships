@@ -90,7 +90,7 @@ To contribute:
 | [Cash App](https://www.smartrecruiters.com/Square/743999823926808) | San Francisco | Open | Mobile Software Engineer Intern
 | [Microsoft](https://careers.microsoft.com/us/en/job/1334911/Software-Engineer-Intern-Opportunities%20) | Canada | Open | Software Engineer Intern
 | [Innovative Systems](http://career.innovativesystems.com/apply/1NkQ6PR9zP/InternCoopFALL-2022-Software-Engineering) | Pittsburgh, PA | Open | Software Engineering Intern
-| [Waymo](https://waymo.com/joinus/3446103/) | U.S. | Open | Software Engineering Intern (Masters/PhD only)
+| [Waymo](https://waymo.com/joinus/3446103/) | U.S. | Closed | Software Engineering Intern (Masters/PhD only)
 | [Wealthsimple](https://jobs.lever.co/wealthsimple?commitment=Intern) | Canada/Remote | Open | [Software Engineer Intern (Fall 2022)](https://jobs.lever.co/wealthsimple/03d94fef-95db-43b1-9617-52c51165173e), [Data Science Intern (Fall 2022)](https://jobs.lever.co/wealthsimple/ce20c336-40e8-4ba1-87d9-3262c8988395)
 | [AMD](https://jobs.amd.com/job/Austin-Fall-2022-Software-Development-Co-OpIntern-%28126609%29-Texa/819505900/) | Austin, TX | Open | Software Development Intern |
 | [Shopify](https://www.shopify.com/careers/search?keywords=intern&sort=) |Remote, Americas & Canada| Open |Fall 2022 Intern: Data Science Intern, Mobile Developer Intern, Production Engineer Intern, FrontEnd Developer Intern, Digital Design Intern, Data Engineer Intern, Content Design Intern, Backend Developer Intern
