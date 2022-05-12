@@ -87,7 +87,7 @@ To contribute:
 | [Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineer-Fall-Co-op--Fullstack----Sales-Cloud--SFA_JR149051-1?source=LinkedIn_Jobs) | U.S. | Open | Software Engineering Co-op (Fullstack)
 | [Google](https://careers.google.com/jobs/results/82487630584783558-software-engineering-intern-bs-fall-2022/) | U.S. | Open | Software Engineering Intern, BS Fall 2022
 | [Ramp](https://boards.greenhouse.io/ramp) | New York, NY | Open | Front-End and Back-End Software Engineer Internship
-| [Cash App](https://www.smartrecruiters.com/Square/743999823926808) | San Francisco | Open | Mobile Software Engineer Intern
+| [Cash App](https://www.smartrecruiters.com/Square/743999823926808) | San Francisco | Closed | Mobile Software Engineer Intern
 | [Microsoft](https://careers.microsoft.com/us/en/job/1334911/Software-Engineer-Intern-Opportunities%20) | Canada | Open | Software Engineer Intern
 | [Innovative Systems](http://career.innovativesystems.com/apply/1NkQ6PR9zP/InternCoopFALL-2022-Software-Engineering) | Pittsburgh, PA | Open | Software Engineering Intern
 | [Waymo](https://waymo.com/joinus/3446103/) | U.S. | Closed | Software Engineering Intern (Masters/PhD only)
