@@ -97,6 +97,7 @@ To contribute:
 | [Susquehanna International Group (SIG)](https://careers.sig.com/job/6302/Software-Engineering-Internship-Program-Fall-2022) | Philadelphia | Open | US & Canadian Citizens. In person with housing stipend. September start – 10 week minimum commitment. C++, C# and Python Development. |
 | [Nimble](https://jobs.lever.co/nimblerx/8f01b424-f6b1-43b4-b09e-9a92a5e3985d) | Redwood City, CA | Open | Software Engineer Intern |
 | [Demonware](https://careers.demonware.net/) | Vancouver, BC | Open | [Ops Engineering](https://careers.demonware.net/job/R014078/Ops-Engineering-Internship), [Software Development](https://careers.demonware.net/job/R014080/Software-Development-Internship)
+| [Coursera](https://www.linkedin.com/jobs/view/3071502930) | Canada/Remote | Open | Software Engineer Intern |
 
 ## Other Semesters
 
