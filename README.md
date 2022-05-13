@@ -98,6 +98,7 @@ To contribute:
 | [Nimble](https://jobs.lever.co/nimblerx/8f01b424-f6b1-43b4-b09e-9a92a5e3985d) | Redwood City, CA | Open | Software Engineer Intern |
 | [Demonware](https://careers.demonware.net/) | Vancouver, BC | Open | [Ops Engineering](https://careers.demonware.net/job/R014078/Ops-Engineering-Internship), [Software Development](https://careers.demonware.net/job/R014080/Software-Development-Internship)
 | [Coursera](https://www.linkedin.com/jobs/view/3071502930) | Canada/Remote | Open | Software Engineer Intern |
+| [Snowflake](https://careers.snowflake.com/us/en/search-results?from=10&s=1&rk=l-university-recruiting) | Bellevue, WA OR San Mateo, CA OR Toronto, ON (Canada) | Open | Software Engineer Intern for [Core/Database](https://careers.snowflake.com/us/en/job/6133802002/Software-Engineer-Intern-Core-Database-Engineering-Fall-2022), [Infrastructure Automation](https://careers.snowflake.com/us/en/job/6134057002/Software-Engineer-Intern-Infrastructure-Automation-Fall-2022), and [Toronto](https://careers.snowflake.com/us/en/job/6140228002/Software-Engineer-Intern-Toronto-Fall-2022) - Fall 2022
 
 ## Other Semesters
 
