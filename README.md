@@ -51,7 +51,7 @@ To contribute:
 | [Anduril](https://jobs.lever.co/anduril/f31aab9c-b194-49e8-ad2a-b7b631d9f8b0) | Seatle, WA OR Costa Mesa, CA | Open | Must be a US citizen |
 | [Electronic Arts](https://ea.gr8people.com/jobs/170918/fall-2022-software-engineer-intern?sid=4) | Orlando, FL/Remote | Closed | Software Engineer Intern (Full-Time) |
 | [iRobot](https://irobot.wd5.myworkdayjobs.com/iRobot/job/US-MA-Bedford/Summer-Fall-2022--Software-Engineering-Co-op--Build---Tools--Undergraduate-_R2581-1?APPLICANT_SOURCE-6-108&source=Linkedin) | Bedford, MA | Closed | |
-| [Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=3339295&gh_src=8363eca61) | New York | Open | |
+| [Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=3339295&gh_src=8363eca61) | New York | Closed | |
 | [Tesla](https://www.tesla.com/en_CA/careers/search/?country=US&query=software%20Internship%20fall) | Palo Alto | Open | Mobile and Vehicle |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/7/refreshFacet/318c8bb6f553100021d223d9780d30be) | Santa Clara | Open | |
 | [Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/) | New York OR Chicago | Closed | No application page open at the moment. Normally it is the same link as Summer 2022, just a dropdown |
@@ -72,7 +72,7 @@ To contribute:
 | [Meta](https://www.metacareers.com/jobs/651492202876559/?rx_campaign=Linkedin1&rx_group=126320&rx_job=a1K2K000008T8f6UAC_aafedf41&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20220302T180302Z&utm_campaign=Job%2Bboard&utm_medium=jobs&utm_source=LIpaid&rx_viewer=fba0cd739a8511ec87148b7e9558b76885e57e351f9344178adc3d0104db7076) | Remote | Closed | Software Engineer, Intern/Co-Op
 | [Astranis](https://jobs.lever.co/astranis/7abd6407-c1aa-4e96-b3d9-bfb151569342?lever-source=LinkedInJobs) | San Francisco, CA | Open | Ground Software — Intern (Summer/Fall 2022); must be a U.S. Citizen |
 | [Volvo Group](https://xjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25079&siteid=5171&AReq=122433BR&codes=LinkedIn#jobDetails=731162_5171) | U.S. | Open | Intern: Software Engineering (Fall 2022) |
-| [BitGo](https://boards.greenhouse.io/bitgo/jobs/5966112002) | U.S. | Open | Early Talent > Hiring for Fall (Intern) |
+| [BitGo](https://boards.greenhouse.io/bitgo/jobs/5966112002) | U.S. | Closed | Early Talent > Hiring for Fall (Intern) |
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/5584758002/) | New York | Open | Must be enrolled in a co-op program at your university |
 | [SingleStore](https://boards.greenhouse.io/singlestore/jobs/3401551) | San Francisco, CA/Remote | Open | Software Engineer Internship |
 | [Plexus](https://plexus.wd5.myworkdayjobs.com/Plexus_Careers/job/Raleigh-NC/Intern---Software-Engineer--Fall-2022-_R014634) | Neenah, WI OR Raleigh, NC | Open | Software Engineer Internship (Full Time), may need U.S. Citizenship or Permanent Residency |
