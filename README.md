@@ -43,6 +43,15 @@ To contribute:
 
 | Name  |  Location | Application Period | Notes |
 |---|---|-------------|-------------|
+| [BitGo](https://boards.greenhouse.io/bitgo/jobs/5966112002) | U.S. | Closed | Early Talent > Hiring for Fall (Intern) |
+| [Meta](https://www.metacareers.com/jobs/651492202876559/?rx_campaign=Linkedin1&rx_group=126320&rx_job=a1K2K000008T8f6UAC_aafedf41&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20220302T180302Z&utm_campaign=Job%2Bboard&utm_medium=jobs&utm_source=LIpaid&rx_viewer=fba0cd739a8511ec87148b7e9558b76885e57e351f9344178adc3d0104db7076) | Remote | Closed | Software Engineer, Intern/Co-Op
+| [Cash App](https://www.smartrecruiters.com/Square/743999823926808) | San Francisco | Closed | Mobile Software Engineer Intern
+| [Cockroach Labs](https://www.cockroachlabs.com/careers/jobs/?gh_jid=3860958) | No Location Listed | Closed | Software Engineer Internship - Fall 2022 |
+| [Carrier](https://jobs.carrier.com/job/pittsford/software-developer-fall-2022-co-op/29289/24121299312) | Pittsford, NY | Closed | ~~SOFTWARE DEVELOPER FALL 2022 CO-OP~~, still open for [Sustaining Software Engineer Fall 2022 Co-op](https://jobs.carrier.com/job/pittsford/sustaining-software-engineer-fall-2022-co-op/29289/24174954736). US Citizen & Permanent Residents Only |
+| [Microsoft](https://careers.microsoft.com/us/en/job/1334911/Software-Engineer-Intern-Opportunities%20) | Canada | Closed | Software Engineer Intern
+| [Waymo](https://waymo.com/joinus/3446103/) | U.S. | Closed | Software Engineering Intern (Masters/PhD only)
+| [Acoustic](https://careers-acoustic.icims.com/jobs/2615/software-engineer-internship---fall-2022/job?hub=7) | Conway, AR/Remote| Closed | Software Engineer Internship - Fall 2022 (looking for juniors and seniors) |
+| [Rippling](https://www.rippling.com/careers/4747010003?gh_jid=4747010003) | San Francisco | Closed | Software Engineer Internship - Fall 2022 |
 | [Chewy](https://careers.chewy.com/us/en/search-results) | Boston | Closed | ~~[Software Development Engineer Intern](https://careers.chewy.com/us/en/job/3456605/2022-Software-Development-Intern) position available. Simply select Fall in the dropdown~~ |
 | [Block](https://www.smartrecruiters.com/Square/743999802028687) | San Francisco | Closed | Mobile Dev (Square). [All Positions](https://block.xyz/careers?types=Intern) |
 | [Toast](https://careers.toasttab.com/jobs/software-engineer-co-op-fall-2022-remote-united-states) | Remote | Closed | Software Engineer Co-op: Fall 2022 |
@@ -68,19 +77,10 @@ To contribute:
 | [Robinhood](https://boards.greenhouse.io/robinhood/jobs/3335146?t=gh_src=&gh_jid=3335146) | Menlo Park, CA | Open | Android Engineer Intern, apps open on greenhouse.io |
 | [AMD](https://jobs.amd.com/go/Internships-&-Co-op-Opportunities/2567200/?q=&title=fall+2022&sortColumn=referencedate&sortDirection=desc) | Boxborough, MA, Austin, TX | Open | [3D Graphics Drivers Intern](https://jobs.amd.com/job/Boxborough-Summer-Fall-2022-3D-Graphics-Driver-Co-OpIntern-%28136581%29-Mass/838675400/), [ICT Firmware Intern](https://jobs.amd.com/job/Austin-Summer-Fall-2022-ICT-Firmware-Co-OpIntern-%28134081%29-Texa/835413600/) positions are available. There are more HWE internships on the website as well, some of which may accept CS majors. |
 | [Cisco](https://jobs.cisco.com/jobs/ProjectDetail?projectId=1363036) | San Francisco (Some Remote) | Open | Full Stack Dev |=
-| [Acoustic](https://careers-acoustic.icims.com/jobs/2615/software-engineer-internship---fall-2022/job?hub=7) | Conway, AR/Remote| Closed | Software Engineer Internship - Fall 2022 (looking for juniors and seniors) |
-| [Rippling](https://www.rippling.com/careers/4747010003?gh_jid=4747010003) | San Francisco | Closed | Software Engineer Internship - Fall 2022 |
 | [Varda](https://boards.greenhouse.io/vardaspace/jobs/4938904003) | Los Angeles, CA | Open | Software Engineer Internship - Fall 2022; must be a U.S. citizen |
-| [Cockroach Labs](https://www.cockroachlabs.com/careers/jobs/?gh_jid=3860958) | No Location Listed | Closed | Software Engineer Internship - Fall 2022 |
-| [Carrier](https://jobs.carrier.com/job/pittsford/software-developer-fall-2022-co-op/29289/24121299312) | Pittsford, NY | Closed | ~~SOFTWARE DEVELOPER FALL 2022 CO-OP~~, still open for [Sustaining Software Engineer Fall 2022 Co-op](https://jobs.carrier.com/job/pittsford/sustaining-software-engineer-fall-2022-co-op/29289/24174954736). US Citizen & Permanent Residents Only |
 | [IBM](https://careers.ibm.com/job/14818791/technical-support-developer-co-op-summer-fall-2022-san-jose-ca/?codes=IBM_CareerWebSite) | San Jose| Closed | Technical Support Developer Co-op (Summer + Fall 2022) |
-| [BitGo](https://boards.greenhouse.io/bitgo/jobs/5966112002) | U.S. | Closed | Early Talent > Hiring for Fall (Intern) |
-| [Meta](https://www.metacareers.com/jobs/651492202876559/?rx_campaign=Linkedin1&rx_group=126320&rx_job=a1K2K000008T8f6UAC_aafedf41&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20220302T180302Z&utm_campaign=Job%2Bboard&utm_medium=jobs&utm_source=LIpaid&rx_viewer=fba0cd739a8511ec87148b7e9558b76885e57e351f9344178adc3d0104db7076) | Remote | Closed | Software Engineer, Intern/Co-Op
 | [Astranis](https://jobs.lever.co/astranis/7abd6407-c1aa-4e96-b3d9-bfb151569342?lever-source=LinkedInJobs) | San Francisco, CA | Open | Ground Software — Intern (Summer/Fall 2022); must be a U.S. Citizen |
-| [Cash App](https://www.smartrecruiters.com/Square/743999823926808) | San Francisco | Closed | Mobile Software Engineer Intern
-| [Microsoft](https://careers.microsoft.com/us/en/job/1334911/Software-Engineer-Intern-Opportunities%20) | Canada | Closed | Software Engineer Intern
 | [Innovative Systems](http://career.innovativesystems.com/apply/1NkQ6PR9zP/InternCoopFALL-2022-Software-Engineering) | Pittsburgh, PA | Open | Software Engineering Intern
-| [Waymo](https://waymo.com/joinus/3446103/) | U.S. | Closed | Software Engineering Intern (Masters/PhD only)
 | [Volvo Group](https://xjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25079&siteid=5171&AReq=122433BR&codes=LinkedIn#jobDetails=731162_5171) | U.S. | Open | Intern: Software Engineering (Fall 2022) |
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/5584758002/) | New York | Open | Must be enrolled in a co-op program at your university |
 | [SingleStore](https://boards.greenhouse.io/singlestore/jobs/3401551) | San Francisco, CA/Remote | Open | Software Engineer Internship |
