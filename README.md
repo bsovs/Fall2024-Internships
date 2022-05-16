@@ -71,6 +71,7 @@ To contribute:
 | [Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/) | New York OR Chicago | Closed | No application page open at the moment. Normally it is the same link as Summer 2022, just a dropdown |
 | [TikTok](https://careers.tiktok.com/position/7047254937289853197/detail) | Mountain View | Closed | ~~Application deadline: August 5, 2022~~ |
 | [Amazon Robotics](https://www.amazon.jobs/en/jobs/1875642/amazon-robotics-software-development-engineer-sde-co-op-fall-2022?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Boston | Closed | Must be eligible and available for a full-time (40h / week) 6-month co-op between June to December 2022 |
+| [Kodiak Robotics](https://jobs.lever.co/kodiak) | Mountain View, CA | Closed | Fall 2022 Intern, Deep Learning for Computer Vision; Fall 2022 Intern, Perception; Fall 2022 Software Internship |
 | [Amazon Web Services](https://www.amazon.jobs/en/jobs/2002577/software-dev-engineer-intern-fall-2022?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Arlington | Open | US Citizens only, required to maintain active TS/SCI security clearance |
 | [Anduril](https://jobs.lever.co/anduril/f31aab9c-b194-49e8-ad2a-b7b631d9f8b0) | Seatle, WA OR Costa Mesa, CA | Open | Must be a US citizen |
 | [Tesla](https://www.tesla.com/en_CA/careers/search/?country=US&query=software%20Internship%20fall) | Palo Alto | Open | Mobile and Vehicle |
@@ -86,7 +87,7 @@ To contribute:
 | [SingleStore](https://boards.greenhouse.io/singlestore/jobs/3401551) | San Francisco, CA/Remote | Open | Software Engineer Internship |
 | [Plexus](https://plexus.wd5.myworkdayjobs.com/Plexus_Careers/job/Raleigh-NC/Intern---Software-Engineer--Fall-2022-_R014634) | Neenah, WI OR Raleigh, NC | Open | Software Engineer Internship (Full Time), may need U.S. Citizenship or Permanent Residency |
 | [Amazon.com LLC](https://www.amazon.jobs/en/jobs/2013931/software-development-engineer-internship-fall-2022-us) | U.S. | Open | Software Development Engineer Internship - Fall 2022 (US), Job ID: 2013931 |
-| [Kodiak Robotics](https://jobs.lever.co/kodiak) | Mountain View, CA | Open | Fall 2022 Intern, Deep Learning for Computer Vision; Fall 2022 Intern, Perception; Fall 2022 Software Internship |
+
 | [Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineer-Fall-Co-op--Fullstack----Sales-Cloud--SFA_JR149051-1?source=LinkedIn_Jobs) | U.S. | Open | Software Engineering Co-op (Fullstack)
 | [Google](https://careers.google.com/jobs/results/82487630584783558-software-engineering-intern-bs-fall-2022/) | U.S. | Open | Software Engineering Intern, BS Fall 2022
 | [Ramp](https://boards.greenhouse.io/ramp) | New York, NY | Open | Front-End and Back-End Software Engineer Internship
