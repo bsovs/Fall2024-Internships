@@ -87,7 +87,6 @@ To contribute:
 | [SingleStore](https://boards.greenhouse.io/singlestore/jobs/3401551) | San Francisco, CA/Remote | Open | Software Engineer Internship |
 | [Plexus](https://plexus.wd5.myworkdayjobs.com/Plexus_Careers/job/Raleigh-NC/Intern---Software-Engineer--Fall-2022-_R014634) | Neenah, WI OR Raleigh, NC | Open | Software Engineer Internship (Full Time), may need U.S. Citizenship or Permanent Residency |
 | [Amazon.com LLC](https://www.amazon.jobs/en/jobs/2013931/software-development-engineer-internship-fall-2022-us) | U.S. | Open | Software Development Engineer Internship - Fall 2022 (US), Job ID: 2013931 |
-
 | [Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineer-Fall-Co-op--Fullstack----Sales-Cloud--SFA_JR149051-1?source=LinkedIn_Jobs) | U.S. | Open | Software Engineering Co-op (Fullstack)
 | [Google](https://careers.google.com/jobs/results/82487630584783558-software-engineering-intern-bs-fall-2022/) | U.S. | Open | Software Engineering Intern, BS Fall 2022
 | [Ramp](https://boards.greenhouse.io/ramp) | New York, NY | Open | Front-End and Back-End Software Engineer Internship
