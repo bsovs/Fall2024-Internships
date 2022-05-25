@@ -98,7 +98,7 @@ To contribute:
 | [Demonware](https://careers.demonware.net/) | Vancouver, BC | Open | [Ops Engineering](https://careers.demonware.net/job/R014078/Ops-Engineering-Internship), [Software Development](https://careers.demonware.net/job/R014080/Software-Development-Internship)
 | [Coursera](https://www.linkedin.com/jobs/view/3071502930) | Canada/Remote | Open | Software Engineer Intern |
 | [Snowflake](https://careers.snowflake.com/us/en/search-results?from=10&s=1&rk=l-university-recruiting) | Bellevue, WA OR San Mateo, CA OR Toronto, ON (Canada) | Open | Software Engineer Intern for [Core/Database](https://careers.snowflake.com/us/en/job/6133802002/Software-Engineer-Intern-Core-Database-Engineering-Fall-2022), [Infrastructure Automation](https://careers.snowflake.com/us/en/job/6134057002/Software-Engineer-Intern-Infrastructure-Automation-Fall-2022), and [Toronto](https://careers.snowflake.com/us/en/job/6140228002/Software-Engineer-Intern-Toronto-Fall-2022) - Fall 2022
-| [Uber](https://university-uber.icims.com/jobs/115333/job?iis=marketing&iisn=Linkedin&iisp=paid&linkedin_sponsored=sponsored&rx_campaign=Linkedin1&rx_group=1462&rx_job=115333&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20220525T180439Z&rx_viewer=bb38a8d9686911ecba39d16e7552e36f938774625de4422e982ef0c63a21a919) | United States (Remote) | Open | Design Engineer Intern
+| [Uber](https://university-uber.icims.com/jobs/115333/job?iis=marketing&iisn=Linkedin&iisp=paid&linkedin_sponsored=sponsored&rx_campaign=Linkedin1&rx_group=1462&rx_job=115333&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20220525T180439Z&rx_viewer=bb38a8d9686911ecba39d16e7552e36f938774625de4422e982ef0c63a21a919) | San Francisco, CA | Open | Design Engineer Intern
 
 ## Other Semesters
 
