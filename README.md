@@ -1,5 +1,5 @@
 # Fall2022-Internships
-hello.
+hello, my name is Darwyn
 Collection of Fall 2022 tech internships!
 
 Shoutout to GitHub user **[bsovs](https://github.com/bsovs)** and **[The Pitt CS Club](https://github.com/pittcsc)** for developing the initial framework and list.
