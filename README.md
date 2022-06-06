@@ -51,7 +51,7 @@ To contribute:
 | [IBM](https://careers.ibm.com/job/14818791/technical-support-developer-co-op-summer-fall-2022-san-jose-ca/?codes=IBM_CareerWebSite) | San Jose| Closed | Technical Support Developer Co-op (Summer + Fall 2022) |
 | [BitGo](https://boards.greenhouse.io/bitgo/jobs/5966112002) | U.S. | Closed | Early Talent > Hiring for Fall (Intern) |
 | [Meta](https://www.metacareers.com/jobs/651492202876559/?rx_campaign=Linkedin1&rx_group=126320&rx_job=a1K2K000008T8f6UAC_aafedf41&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20220302T180302Z&utm_campaign=Job%2Bboard&utm_medium=jobs&utm_source=LIpaid&rx_viewer=fba0cd739a8511ec87148b7e9558b76885e57e351f9344178adc3d0104db7076) | Remote | Closed | Software Engineer, Intern/Co-Op
-| [Cash App](https://www.smartrecruiters.com/Square/743999823926808) | San Francisco | Closed | Mobile Software Engineer Intern
+| [Cash App](https://cash.app/careers) | San Francisco, Toronto | Open | Machine Learning Engineering Intern, Machine Learning Modeler Intern, Recommendations & Incentives
 | [Cockroach Labs](https://www.cockroachlabs.com/careers/jobs/?gh_jid=3860958) | No Location Listed | Closed | Software Engineer Internship - Fall 2022 |
 | [Carrier](https://jobs.carrier.com/job/pittsford/software-developer-fall-2022-co-op/29289/24121299312) | Pittsford, NY | Closed | ~~SOFTWARE DEVELOPER FALL 2022 CO-OP~~, still open for [Sustaining Software Engineer Fall 2022 Co-op](https://jobs.carrier.com/job/pittsford/sustaining-software-engineer-fall-2022-co-op/29289/24174954736). US Citizen & Permanent Residents Only |
 | [Microsoft](https://careers.microsoft.com/us/en/job/1334911/Software-Engineer-Intern-Opportunities%20) | Canada | Closed | Software Engineer Intern
