@@ -100,6 +100,9 @@ To contribute:
 | [PagerDuty](https://boards.greenhouse.io/pagerduty/jobs/4530307004) | United States (Remote) | Open | Software Developer Intern |
 | [Block](https://www.smartrecruiters.com/Square/743999802028687) | San Francisco | Open | Mobile Dev (Square). [All Positions](https://www.smartrecruiters.com/Square/743999822375984) |
 | [Cash App](https://cash.app/careers) | San Francisco, Toronto | Open | Machine Learning Engineering Intern, Machine Learning Modeler Intern, Recommendations & Incentives |
+| [Roku](https://www.roku.com/jobs/position/3779685/software-engineer-intern-fall-2022?gh_jid=3779685) |  San Jose, CA | Open | Software Engineer Intern |
+| [UKG](https://careers.ukg.com/careers/JobDetail/Software-Engineering-Internship-Fall-2022/39190?source=Internet%20-%20LinkedIn%20-%20Sponsored) | Atlanta, GA OR Lowell, MA OR Weston, FL | Open | Software Engineer Internship |
+| [Siemens](https://jobs.siemens.com/jobs/318571?lang=en-us&jobPipeline=LinkedIn%28Wrap%29&sourceType=PREMIUM_POST_SITE) | Huntsville, AL OR Longmont, CO| Open | Software Engineering Intern Co-Op |
 
 ## Other Semesters
 
