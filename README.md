@@ -44,7 +44,7 @@ To contribute:
 | Name  |  Location | Application Period | Notes |
 |---|---|-------------|-------------|
 | [Robinhood](https://boards.greenhouse.io/robinhood/jobs/3335146?t=gh_src=&gh_jid=3335146) | Menlo Park, CA | Closed | Android Engineer Intern, apps open on greenhouse.io |
-| [Cisco](https://jobs.cisco.com/jobs/ProjectDetail?projectId=1363036) | San Francisco (Some Remote) | Open | Full Stack Dev |=
+| [Cisco](https://jobs.cisco.com/jobs/ProjectDetail?projectId=1363036) | San Francisco (Some Remote) | Closed | Full Stack Dev |=
 | [Uber](https://university-uber.icims.com/jobs/115333/job?iis=marketing&iisn=Linkedin&iisp=paid&linkedin_sponsored=sponsored&rx_campaign=Linkedin1&rx_group=1462&rx_job=115333&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20220525T180439Z&rx_viewer=bb38a8d9686911ecba39d16e7552e36f938774625de4422e982ef0c63a21a919) | San Francisco, CA | Closed | Design Engineer Intern |
 | [Block](https://www.smartrecruiters.com/Square/743999802028687) | San Francisco | Closed | Mobile Dev (Square). [All Positions](https://www.smartrecruiters.com/Square/743999822375984) |
 | [Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineer-Fall-Co-op--Fullstack----Sales-Cloud--SFA_JR149051-1?source=LinkedIn_Jobs) | U.S. | Closed | Software Engineering Co-op (Fullstack)
