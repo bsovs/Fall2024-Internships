@@ -80,6 +80,7 @@ To contribute:
 | [TikTok](https://careers.tiktok.com/position/7047254937289853197/detail) | Mountain View | Closed | ~~Application deadline: August 5, 2022~~ |
 | [Amazon Robotics](https://www.amazon.jobs/en/jobs/1875642/amazon-robotics-software-development-engineer-sde-co-op-fall-2022?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Boston | Closed | Must be eligible and available for a full-time (40h / week) 6-month co-op between June to December 2022 |
 | [Kodiak Robotics](https://jobs.lever.co/kodiak) | Mountain View, CA | Closed | Fall 2022 Intern, Deep Learning for Computer Vision; Fall 2022 Intern, Perception; Fall 2022 Software Internship |
+| [Block](https://www.smartrecruiters.com/Square/743999802028687) | San Francisco | Closed | Mobile Dev (Square). [All Positions](https://www.smartrecruiters.com/Square/743999822375984) |
 | [Amazon Web Services](https://www.amazon.jobs/en/jobs/2002577/software-dev-engineer-intern-fall-2022?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | Arlington | Open | US Citizens only, required to maintain active TS/SCI security clearance |
 | [Anduril](https://jobs.lever.co/anduril/f31aab9c-b194-49e8-ad2a-b7b631d9f8b0) | Seatle, WA OR Costa Mesa, CA | Open | Must be a US citizen |
 | [Tesla](https://www.tesla.com/en_CA/careers/search/?country=US&query=software%20Internship%20fall) | Palo Alto | Open | Mobile and Vehicle |
