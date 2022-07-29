@@ -102,7 +102,7 @@ To contribute:
 | [Cash App](https://cash.app/careers) | San Francisco, Toronto | Open | Machine Learning Engineering Intern, Machine Learning Modeler Intern, Recommendations & Incentives |
 | [Roku](https://www.roku.com/jobs/position/3779685/software-engineer-intern-fall-2022?gh_jid=3779685) |  San Jose, CA | Closed | Software Engineer Intern |
 | [UKG](https://careers.ukg.com/careers/JobDetail/Software-Engineering-Internship-Fall-2022/39190?source=Internet%20-%20LinkedIn%20-%20Sponsored) | Atlanta, GA OR Lowell, MA OR Weston, FL | Open | Software Engineer Internship |
-| [Siemens](https://jobs.siemens.com/jobs/318571?lang=en-us&jobPipeline=LinkedIn%28Wrap%29&sourceType=PREMIUM_POST_SITE) | Huntsville, AL OR Longmont, CO| Open | Software Engineering Intern Co-Op |
+| [Siemens](https://jobs.siemens.com/jobs/318571?lang=en-us&jobPipeline=LinkedIn%28Wrap%29&sourceType=PREMIUM_POST_SITE) | Huntsville, AL OR Longmont, CO| Closed | Software Engineering Intern Co-Op |
 | [Splunk](https://www.splunk.com/en_us/careers/early-talent.html)| San Jose, CA (Remote Option), Vancouver, BC | Open | Software Engineering Co-op (QA, Android, iOS, AR, Front-end, Back-end) |
 | [LinkedIn](https://www.linkedin.com/jobs/search/?f_C=1337&geoId=103644278&keywords=intern%20fall%202022&location=United%20States) | Sunnyvale, CA or San Francisco, CA or New York, NY | Open | Software Engineer, Systems and Infra Engineer (Backend), UI Engineer, Mobile Engineer
 
