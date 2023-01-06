@@ -41,6 +41,7 @@ To contribute:
 
 | Name  |  Location | Application Period | Notes |
 |---|---|-------------|-------------|
+|[Hubspot](https://www.hubspot.com/careers/jobs/3643175?hubs_signup-cta=careers-apply)|Remote|Open|Back End Position|
 
 ## Other Semesters
 
