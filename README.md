@@ -1,4 +1,4 @@
-# Fall2023-Internships (COMING SOON)
+# Fall2023-Internships
 
 Collection of Fall 2023 tech internships!
 
