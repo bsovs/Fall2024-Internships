@@ -42,7 +42,7 @@ To contribute:
 | Name  |  Location | Application Period | Notes |
 |---|---|-------------|-------------|
 |[Hubspot](https://www.hubspot.com/careers/jobs/3643175?hubs_signup-cta=careers-apply)|Remote|Open|Back End Position|
-
+|[Tesla](https://www.tesla.com/careers/search/job/vehicle-firmware-embedded-systems-engineering-internship-fall-2023-168106?)|In-Person|Open|Back End Position|
 ## Other Semesters
 
 [Fall 2022 - bsovs](https://github.com/bsovs/Fall2023-Internships/tree/main/Fall2022)
