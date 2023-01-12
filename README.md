@@ -1,6 +1,6 @@
 # Fall2023-Internships (COMING SOON)
 
-Collection of Fall 2023 tech internships! (COMING SOON)
+Collection of Fall 2023 tech internships!
 
 Shoutout to GitHub user **[bsovs](https://github.com/bsovs)** and **[The Pitt CS Club](https://github.com/pittcsc)** for developing the initial framework and list.
 
