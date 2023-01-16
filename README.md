@@ -43,6 +43,14 @@ To contribute:
 |---|---|-------------|-------------|
 |[Hubspot](https://www.hubspot.com/careers/jobs/3643175?hubs_signup-cta=careers-apply)|Remote|Open|Back End Position|
 |[Tesla](https://www.tesla.com/careers/search/job/vehicle-firmware-embedded-systems-engineering-internship-fall-2023-168106?)|In-Person|Open|Back End Position|
+|[General Electric](https://jobs.gecareers.com/aviation/global/en/job/GE11GLOBALR3630709EXTERNALENGLOBAL/GE-Aviation-Systems-Engineering-Co-op-Fall-2023)|Multiple|Open|Systems Engineering Intern
+|[Johnson & Johnson](https://jnjc.taleo.net/careersection/4/jobdetail.ftl?job=2206082625W&lang=en)|Multiple Locations or Remote|Open|Technology Co-op (Many Positions) (Jun-Dec 2023)
+|[BMW](https://www.bmwgroup.jobs/us/en/jobfinder/job-description.2300001K.html)|Spartanburg, SC|Open|Full Stack Developer Intern
+|[Danbury Mission Technologies](https://recruiting.ultipro.com/DAN1006DMT/JobBoard/0a1c026e-04e8-4606-8220-15f06f331421/OpportunityDetail?opportunityId=da3c15f6-13e5-40e2-9dfa-728fe842c775)|Danbury, CT|Open|Embedded Software Engineering Co-Op
+|[Midmark](https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2154?utm_medium=jobshare)|Versailles, OH or Remote|Open|IT Co-Op Software Development
+|[PCAOB](https://pcaobus.wd1.myworkdayjobs.com/PCAOB/job/Ashburn-VA/Fall-2023-Technology-Intern_R596)|Ashburn, VA or Washington, DC|Open|Technology Intern (Hybrid)
+
+
 ## Other Semesters
 
 [Fall 2022 - bsovs](https://github.com/bsovs/Fall2023-Internships/tree/main/Fall2022)
