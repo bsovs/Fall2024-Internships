@@ -51,6 +51,7 @@ To contribute:
 |[Midmark](https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2154?utm_medium=jobshare)|Versailles, OH or Remote|Open|IT Co-Op Software Development
 |[PCAOB](https://pcaobus.wd1.myworkdayjobs.com/PCAOB/job/Ashburn-VA/Fall-2023-Technology-Intern_R596)|Ashburn, VA or Washington, DC|Open|Technology Intern (Hybrid)
 |[BMW](https://www.bmwgroup.jobs/us/en/jobfinder/job-description.2300002E.html)|Spartanburg, SC (Hybrid)|Open| Software Engineer Co-op
+|[Stoke Space](https://www.stokespace.com/careers/current-openings/?gh_jid=4762467004)|Kent, WA|Open| Software/Avionics Intern - Fall 2023
 
 ## Other Semesters
 
