@@ -53,6 +53,8 @@ To contribute:
 |[PCAOB](https://pcaobus.wd1.myworkdayjobs.com/PCAOB/job/Ashburn-VA/Fall-2023-Technology-Intern_R596)|Ashburn, VA or Washington, DC|Open|Technology Intern (Hybrid)
 |[Stoke Space](https://www.stokespace.com/careers/current-openings/?gh_jid=4762467004)|Kent, WA|Open| Software/Avionics Intern - Fall 2023
 |[Waystar](https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta/Application-Engineer-Co-Op---Summer-or-Fall-of-2023_R735)|Atlanta, GA | Open | Application Engineer Co-Op
+|[Plexus](https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Raleigh-NC/Intern---Software-Engineer-Intern---Fall-2023_R022285)|Raleigh, NC | Open | Software Engineer Intern
+
 
 ## Other Semesters
 
