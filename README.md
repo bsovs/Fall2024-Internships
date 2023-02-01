@@ -55,6 +55,8 @@ To contribute:
 |[Waystar](https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta/Application-Engineer-Co-Op---Summer-or-Fall-of-2023_R735)|Atlanta, GA | Open | Application Engineer Co-Op
 |[Plexus](https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Raleigh-NC/Intern---Software-Engineer-Intern---Fall-2023_R022285)|Raleigh, NC | Open | Software Engineer Intern
 |[CertiK](https://jobs.lever.co/certik/cc4bc2b7-ee87-43be-81c9-09c8b0411a7e)| Multiple Locations or Remote | Open | Software Engineer Intern
+|[Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/) | Chicago, New York | Open | Same link as Summer 2022, just a dropdown to select Fall 
+
 
 ## Other Semesters
 
