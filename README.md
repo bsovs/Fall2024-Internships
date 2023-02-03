@@ -41,7 +41,7 @@ To contribute:
 
 | Name  |  Location | Application Period | Notes |
 |---|---|-------------|-------------|
-|[Hubspot](https://www.hubspot.com/careers/jobs/3643175?hubs_signup-cta=careers-apply)|Remote|Open|Back End Position|
+|[Hubspot](https://www.hubspot.com/careers/jobs/3643175?hubs_signup-cta=careers-apply)|Remote|🔒 Closed 🔒|Back End Position|
 |[Tesla](https://www.tesla.com/careers/search/job/vehicle-firmware-embedded-systems-engineering-internship-fall-2023-168106?)|In-Person|Open|Back End Position|
 |[General Electric](https://jobs.gecareers.com/aviation/global/en/job/GE11GLOBALR3630709EXTERNALENGLOBAL/GE-Aviation-Systems-Engineering-Co-op-Fall-2023)|Multiple|Open|Systems Engineering Intern
 |[Johnson & Johnson](https://jnjc.taleo.net/careersection/4/jobdetail.ftl?job=2206082625W&lang=en)|Multiple Locations or Remote|Open|Technology Co-op (Many Positions) (Jun-Dec 2023)
