@@ -58,6 +58,7 @@ To contribute:
 |[Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/) | Chicago, New York | Open | Same link as Summer 2022, just a dropdown to select Fall 
 |[Ansys](https://careers.ansys.com/job/Vancouver-Fall-2023-Co-Op-DevOps-Lumerical-%28Bachelors%29-REMOTE-Brit-V6E2M6/981250300/?utm_source=LINKEDIN&utm_medium=referrer)| Vancouver, Remote | Open | DevOps
 |[UKG](https://careers.ukg.com/careers/ApplicationMethods?jobId=44121)| Multiple Locations | Open | Software Engineering Intern
+|[Jane Street](https://www.janestreet.com/join-jane-street/position/6483148002/)| New York, NY | Open | Software Engineer Intern (Sepetember to December)
 
 
 
