@@ -61,6 +61,7 @@ To contribute:
 |[Jane Street](https://www.janestreet.com/join-jane-street/position/6483148002/)| New York, NY | Open | Software Engineer Intern (Sepetember to December)
 |[Amazon Robotics](https://www.amazon.jobs/en/jobs/2330094/amazon-robotics-software-development-engineer-sde-co-op-fall-2023?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com)| Toronto | Open | SDE Co-op
 |[The Hershey Company](https://careers.thehersheycompany.com/job/Hershey-Data-Science-Co-Op-%28Fall-2023%29-PA-17033/1004180700/)| Virtual with possible travel to Hershey, PA | Open | Data Science Co-Op (Fall 2023)
+|[Tesla](https://www.tesla.com/careers/search/job/full-stack-engineering-internship-vehicle-software-fall-2023-173443?source=LinkedIn)| Palo Alto, CA | Open |Full Stack Engineering Internship
 
 ## Other Semesters
 
