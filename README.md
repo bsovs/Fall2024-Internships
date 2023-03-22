@@ -63,6 +63,7 @@ To contribute:
 |[The Hershey Company](https://careers.thehersheycompany.com/job/Hershey-Data-Science-Co-Op-%28Fall-2023%29-PA-17033/1004180700/)| Virtual with possible travel to Hershey, PA | Open | Data Science Co-Op (Fall 2023)
 |[Tesla](https://www.tesla.com/careers/search/job/full-stack-engineering-internship-vehicle-software-fall-2023-173443?source=LinkedIn)| Palo Alto, CA | Open |Full Stack Engineering Internship
 |[Cisco](https://jobs.cisco.com/jobs/SearchJobs/fall?listFilterMode=1)| San Francisco, Chicago, Remote | Open | Software Engineering Interns, various (Labelled as Fall 2024, but description says Fall 2023)
+|[Disney](https://jobs.disneycareers.com/job/-/-/391/46265542256)| Orlando, Florida, United States | Open | Software Engineering Intern
 ## Other Semesters
 
 [Fall 2022 - bsovs](https://github.com/bsovs/Fall2023-Internships/tree/main/Fall2022)
