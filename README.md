@@ -67,7 +67,7 @@ To contribute:
 |[Melaleuca](https://studentcareers-melaleuca.icims.com/jobs/4695/internship-2023---software-development---automation/job?mobile=false&width=1362&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)| Idaho Falls | Open | CI/CD Automation
 |[Lockheed Martin](https://www.lockheedmartinjobs.com/job/-/-/694/45728491488)| Liverpool, New York; Owego, New York | Open | Firmware Engineer
 |[Chameleon Consulting](https://chameleoncg.com/careers?gnk=job&gni=8a7883ac861fc5f801862d2de138524d&gns=LinkedIn%2BLimited)| Herndon, VA Hybrid | Open | Networking Engineer
-
+|[SpaceX](https://www.themuse.com/jobs/spacex/fall-2023-software-engineering-internshipcoop?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)| Washington. DC, CA, FL, TX, WA| Open | Software Engineering Intern
 ## Other Semesters
 
 [Fall 2022 - bsovs](https://github.com/bsovs/Fall2023-Internships/tree/main/Fall2022)
