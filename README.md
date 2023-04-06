@@ -68,6 +68,7 @@ To contribute:
 |[Lockheed Martin](https://www.lockheedmartinjobs.com/job/-/-/694/45728491488)| Liverpool, New York; Owego, New York | Open | Firmware Engineer
 |[Chameleon Consulting](https://chameleoncg.com/careers?gnk=job&gni=8a7883ac861fc5f801862d2de138524d&gns=LinkedIn%2BLimited)| Herndon, VA Hybrid | Open | Networking Engineer
 |[SpaceX](https://boards.greenhouse.io/spacex/jobs/6675035002?gh_jid=6675035002)| Washington. DC, CA, FL, TX, WA| Open | Software Engineering Intern
+|[Snowflake](https://careers.snowflake.com/us/en/job/SNCOUS6699893002EXTERNALENUS/Software-Engineer-Intern-Infrastructure-Automation-Fall-2023?utm_source=linkedin&utm_medium=phenom-feeds&gh_src=ed5543a62)| San Mateo, CA, Bellevue, WA| Open | Software Engineering Intern
 
 ## Other Semesters
 
