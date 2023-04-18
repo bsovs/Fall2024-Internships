@@ -52,7 +52,7 @@ To contribute:
 |[Midmark](https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2154?utm_medium=jobshare)|Versailles, OH or Remote|Open|IT Co-Op Software Development
 |[PCAOB](https://pcaobus.wd1.myworkdayjobs.com/PCAOB/job/Ashburn-VA/Fall-2023-Technology-Intern_R596)|Ashburn, VA or Washington, DC|🔒 Closed 🔒|Technology Intern (Hybrid)
 |[Stoke Space](https://www.stokespace.com/careers/current-openings/?gh_jid=4762467004)|Kent, WA |🔒 Closed 🔒| Software/Avionics Intern - Fall 2023
-|[Waystar](https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta/Application-Engineer-Co-Op---Summer-or-Fall-of-2023_R735)|Atlanta, GA | Open | Application Engineer Co-Op
+|[Waystar](https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta/Application-Engineer-Co-Op---Summer-or-Fall-of-2023_R735)|Atlanta, GA |🔒 Closed 🔒| Application Engineer Co-Op
 |[Plexus](https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Raleigh-NC/Intern---Software-Engineer-Intern---Fall-2023_R022285)|Raleigh, NC | Open | Software Engineer Intern
 |[CertiK](https://jobs.lever.co/certik/cc4bc2b7-ee87-43be-81c9-09c8b0411a7e)| Multiple Locations or Remote | Open | Software Engineer Intern
 |[Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/) | Chicago, New York | Open | Same link as Summer 2022, just a dropdown to select Fall 
