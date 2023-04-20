@@ -53,19 +53,19 @@ To contribute:
 |[PCAOB](https://pcaobus.wd1.myworkdayjobs.com/PCAOB/job/Ashburn-VA/Fall-2023-Technology-Intern_R596)|Ashburn, VA or Washington, DC|🔒 Closed 🔒|Technology Intern (Hybrid)
 |[Stoke Space](https://www.stokespace.com/careers/current-openings/?gh_jid=4762467004)|Kent, WA |🔒 Closed 🔒| Software/Avionics Intern - Fall 2023
 |[Waystar](https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta/Application-Engineer-Co-Op---Summer-or-Fall-of-2023_R735)|Atlanta, GA |🔒 Closed 🔒| Application Engineer Co-Op
-|[Plexus](https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Raleigh-NC/Intern---Software-Engineer-Intern---Fall-2023_R022285)|Raleigh, NC | Open | Software Engineer Intern
+|[Plexus](https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Raleigh-NC/Intern---Software-Engineer-Intern---Fall-2023_R022285)|Raleigh, NC |🔒 Closed 🔒| Software Engineer Intern
 |[CertiK](https://jobs.lever.co/certik/cc4bc2b7-ee87-43be-81c9-09c8b0411a7e)| Multiple Locations or Remote | Open | Software Engineer Intern
 |[Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/) | Chicago, New York | Open | Same link as Summer 2022, just a dropdown to select Fall 
 |[Ansys](https://careers.ansys.com/job/Vancouver-Fall-2023-Co-Op-DevOps-Lumerical-%28Bachelors%29-REMOTE-Brit-V6E2M6/981250300/?utm_source=LINKEDIN&utm_medium=referrer)| Vancouver, Remote | 🔒 Closed 🔒 | DevOps
 |[UKG](https://careers.ukg.com/careers/ApplicationMethods?jobId=44121)| Multiple Locations | Open | Software Engineering Intern
 |[Jane Street](https://www.janestreet.com/join-jane-street/position/6483148002/)| New York, NY | Open | Software Engineer Intern (Sepetember to December)
-|[Amazon Robotics](https://www.amazon.jobs/en/jobs/2330094/amazon-robotics-software-development-engineer-sde-co-op-fall-2023?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com)| Toronto | Open | SDE Co-op
+|[Amazon Robotics](https://www.amazon.jobs/en/jobs/2330094/amazon-robotics-software-development-engineer-sde-co-op-fall-2023?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com)| Toronto |🔒 Closed 🔒| SDE Co-op
 |[Amazon Robotics](https://www.amazon.jobs/en/jobs/2345448/amazon-robotics-front-end-engineer-fee-co-op-fall-2023)|Boston, MA|Open| Front End Engineer Co-op
 |[The Hershey Company](https://careers.thehersheycompany.com/job/Hershey-Data-Science-Co-Op-%28Fall-2023%29-PA-17033/1004180700/)| Virtual with possible travel to Hershey, PA | Open | Data Science Co-Op (Fall 2023)
 |[Tesla](https://www.tesla.com/careers/search/job/full-stack-engineering-internship-vehicle-software-fall-2023-173443?source=LinkedIn)| Palo Alto, CA | Open |Full Stack Engineering Internship
 |[Cisco](https://jobs.cisco.com/jobs/SearchJobs/fall?listFilterMode=1)| San Francisco, Chicago, Remote | Open | Software Engineering Interns, various (Labelled as Fall 2024, but description says Fall 2023)
-|[Sealed Air](https://jobs.sealedair.com/job/Streetsboro-Software-Engineering-Co-op-Fall-2023-OH-44241/1005032000/?feedId=204700&utm_source=LinkedInJobPostings&utm_campaign=SealedAir_Linkedin)| Streetsboro, OH | Open | Software Engineering Co-op - Fall 2023
-|[Melaleuca](https://studentcareers-melaleuca.icims.com/jobs/4695/internship-2023---software-development---automation/job?mobile=false&width=1362&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)| Idaho Falls | Open | CI/CD Automation
+|[Sealed Air](https://jobs.sealedair.com/job/Streetsboro-Software-Engineering-Co-op-Fall-2023-OH-44241/1005032000/?feedId=204700&utm_source=LinkedInJobPostings&utm_campaign=SealedAir_Linkedin)| Streetsboro, OH |🔒 Closed 🔒| Software Engineering Co-op - Fall 2023
+|[Melaleuca](https://studentcareers-melaleuca.icims.com/jobs/4695/internship-2023---software-development---automation/job?mobile=false&width=1362&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)| Idaho Falls |🔒 Closed 🔒| CI/CD Automation
 |[Lockheed Martin](https://www.lockheedmartinjobs.com/job/-/-/694/45728491488)| Liverpool, New York; Owego, New York | Open | Firmware Engineer
 |[Chameleon Consulting](https://chameleoncg.com/careers?gnk=job&gni=8a7883ac861fc5f801862d2de138524d&gns=LinkedIn%2BLimited)| Herndon, VA Hybrid | Open | Networking Engineer
 |[SpaceX](https://boards.greenhouse.io/spacex/jobs/6675035002?gh_jid=6675035002)| Washington. DC, CA, FL, TX, WA| Open | Software Engineering Intern
