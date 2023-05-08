@@ -61,7 +61,7 @@ To contribute:
 |[Jane Street](https://www.janestreet.com/join-jane-street/position/6483148002/)| New York, NY | Open | Software Engineer Intern (Sepetember to December)
 |[Amazon Robotics](https://www.amazon.jobs/en/jobs/2330094/amazon-robotics-software-development-engineer-sde-co-op-fall-2023?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com)| Toronto |🔒 Closed 🔒| SDE Co-op
 |[Amazon Robotics](https://www.amazon.jobs/en/jobs/2345448/amazon-robotics-front-end-engineer-fee-co-op-fall-2023)|Boston, MA|Open| Front End Engineer Co-op
-|[The Hershey Company](https://careers.thehersheycompany.com/job/Hershey-Data-Science-Co-Op-%28Fall-2023%29-PA-17033/1004180700/)| Virtual with possible travel to Hershey, PA | Open | Data Science Co-Op (Fall 2023)
+|[The Hershey Company](https://careers.thehersheycompany.com/job/Hershey-Data-Science-Co-Op-%28Fall-2023%29-PA-17033/1004180700/)| Virtual with possible travel to Hershey, PA | 🔒 Closed 🔒 | Data Science Co-Op (Fall 2023)
 |[Tesla](https://www.tesla.com/careers/search/job/full-stack-engineering-internship-vehicle-software-fall-2023-173443?source=LinkedIn)| Palo Alto, CA | Open |Full Stack Engineering Internship
 |[Cisco](https://jobs.cisco.com/jobs/SearchJobs/fall?listFilterMode=1)| San Francisco, Chicago, Remote | Open | Software Engineering Interns, various (Labelled as Fall 2024, but description says Fall 2023)
 |[Sealed Air](https://jobs.sealedair.com/job/Streetsboro-Software-Engineering-Co-op-Fall-2023-OH-44241/1005032000/?feedId=204700&utm_source=LinkedInJobPostings&utm_campaign=SealedAir_Linkedin)| Streetsboro, OH |🔒 Closed 🔒| Software Engineering Co-op - Fall 2023
