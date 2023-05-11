@@ -55,7 +55,7 @@ To contribute:
 |[Waystar](https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta/Application-Engineer-Co-Op---Summer-or-Fall-of-2023_R735)|Atlanta, GA |🔒 Closed 🔒| Application Engineer Co-Op
 |[Plexus](https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Raleigh-NC/Intern---Software-Engineer-Intern---Fall-2023_R022285)|Raleigh, NC |🔒 Closed 🔒| Software Engineer Intern
 |[CertiK](https://jobs.lever.co/certik/cc4bc2b7-ee87-43be-81c9-09c8b0411a7e)| Multiple Locations or Remote | Open | Software Engineer Intern
-|[Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/) | Chicago, New York | Open | Same link as Summer 2022, just a dropdown to select Fall 
+|[Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/) | Chicago, New York |🔒 Closed 🔒| Same link as Summer 2022, just a dropdown to select Fall 
 |[Ansys](https://careers.ansys.com/job/Vancouver-Fall-2023-Co-Op-DevOps-Lumerical-%28Bachelors%29-REMOTE-Brit-V6E2M6/981250300/?utm_source=LINKEDIN&utm_medium=referrer)| Vancouver, Remote | 🔒 Closed 🔒 | DevOps
 |[UKG](https://careers.ukg.com/careers/ApplicationMethods?jobId=44121)| Multiple Locations | Open | Software Engineering Intern
 |[Jane Street](https://www.janestreet.com/join-jane-street/position/6483148002/)| New York, NY | Open | Software Engineer Intern (Sepetember to December)
