@@ -44,7 +44,7 @@ To contribute:
 |[Hubspot](https://www.hubspot.com/careers/jobs/3643175?hubs_signup-cta=careers-apply)|Remote|🔒 Closed 🔒|Back End Position|
 |[Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Silicon-Validation-Engineering-Intern---Fall-2023_JR1963068-1)|Santa Clara, CA|🔒 Closed 🔒|Silicon Validation Engineering Intern - Fall 2023
 |[Tesla](https://www.tesla.com/careers/search/job/vehicle-firmware-embedded-systems-engineering-internship-fall-2023-168106?)|In-Person|Open|Back End Position|
-|[General Electric](https://jobs.gecareers.com/aviation/global/en/job/GE11GLOBALR3630709EXTERNALENGLOBAL/GE-Aviation-Systems-Engineering-Co-op-Fall-2023)|Multiple|Open|Systems Engineering Intern
+|[General Electric](https://jobs.gecareers.com/aviation/global/en/job/GE11GLOBALR3630709EXTERNALENGLOBAL/GE-Aviation-Systems-Engineering-Co-op-Fall-2023)|Multiple|🔒 Closed 🔒|Systems Engineering Intern
 |[Johnson & Johnson](https://jnjc.taleo.net/careersection/4/jobdetail.ftl?job=2206082625W&lang=en)|Multiple Locations or Remote|Open|Technology Co-op (Many Positions) (Jun-Dec 2023)
 |[BMW](https://www.bmwgroup.jobs/us/en/jobfinder/job-description.2300001K.html)|Spartanburg, SC|🔒 Closed 🔒|Full Stack Developer Intern
 |[BMW](https://www.bmwgroup.jobs/us/en/jobfinder/job-description.2300002E.html)|Spartanburg, SC (Hybrid)|🔒 Closed 🔒| Software Engineer Co-op
