@@ -44,7 +44,7 @@ To contribute:
 |[Hubspot](https://www.hubspot.com/careers/jobs/3643175?hubs_signup-cta=careers-apply)|Remote|🔒 Closed 🔒|Back End Position|
 |[Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Silicon-Validation-Engineering-Intern---Fall-2023_JR1963068-1)|Santa Clara, CA|🔒 Closed 🔒|Silicon Validation Engineering Intern - Fall 2023
 |[Tesla](https://www.tesla.com/careers/search/job/vehicle-firmware-embedded-systems-engineering-internship-fall-2023-168106?)|In-Person|Open|Back End Position|
-|[General Electric](https://jobs.gecareers.com/aviation/global/en/job/GE11GLOBALR3630709EXTERNALENGLOBAL/GE-Aviation-Systems-Engineering-Co-op-Fall-2023)|Multiple|Open|Systems Engineering Intern
+|[General Electric](https://jobs.gecareers.com/aviation/global/en/job/GE11GLOBALR3630709EXTERNALENGLOBAL/GE-Aviation-Systems-Engineering-Co-op-Fall-2023)|Multiple|🔒 Closed 🔒|Systems Engineering Intern
 |[Johnson & Johnson](https://jnjc.taleo.net/careersection/4/jobdetail.ftl?job=2206082625W&lang=en)|Multiple Locations or Remote|Open|Technology Co-op (Many Positions) (Jun-Dec 2023)
 |[BMW](https://www.bmwgroup.jobs/us/en/jobfinder/job-description.2300001K.html)|Spartanburg, SC|🔒 Closed 🔒|Full Stack Developer Intern
 |[BMW](https://www.bmwgroup.jobs/us/en/jobfinder/job-description.2300002E.html)|Spartanburg, SC (Hybrid)|🔒 Closed 🔒| Software Engineer Co-op
@@ -67,7 +67,7 @@ To contribute:
 |[Sealed Air](https://jobs.sealedair.com/job/Streetsboro-Software-Engineering-Co-op-Fall-2023-OH-44241/1005032000/?feedId=204700&utm_source=LinkedInJobPostings&utm_campaign=SealedAir_Linkedin)| Streetsboro, OH |🔒 Closed 🔒| Software Engineering Co-op - Fall 2023
 |[Melaleuca](https://studentcareers-melaleuca.icims.com/jobs/4695/internship-2023---software-development---automation/job?mobile=false&width=1362&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)| Idaho Falls |🔒 Closed 🔒| CI/CD Automation
 |[Lockheed Martin](https://www.lockheedmartinjobs.com/job/-/-/694/45728491488)| Liverpool, New York; Owego, New York | Open | Firmware Engineer
-|[Chameleon Consulting](https://chameleoncg.com/careers?gnk=job&gni=8a7883ac861fc5f801862d2de138524d&gns=LinkedIn%2BLimited)| Herndon, VA Hybrid | Open | Networking Engineer
+|[Chameleon Consulting](https://chameleoncg.com/careers?gnk=job&gni=8a7883ac861fc5f801862d2de138524d&gns=LinkedIn%2BLimited)| Herndon, VA Hybrid |🔒 Closed 🔒 | Networking Engineer
 |[SpaceX](https://boards.greenhouse.io/spacex/jobs/6675035002?gh_jid=6675035002)| Washington. DC, CA, FL, TX, WA| Open | Software Engineering Intern
 |[Snowflake](https://careers.snowflake.com/us/en/job/SNCOUS6699893002EXTERNALENUS/Software-Engineer-Intern-Infrastructure-Automation-Fall-2023?utm_source=linkedin&utm_medium=phenom-feeds&gh_src=ed5543a62)| San Mateo, CA, Bellevue, WA| Open | Software Engineering Intern
 |[Wealthsimple](https://jobs.lever.co/wealthsimple/daacc715-972c-46ca-b489-31c2bb528192/apply)| Toronto| Open | Software Development Intern
