@@ -72,6 +72,9 @@ To contribute:
 |[Snowflake](https://careers.snowflake.com/us/en/job/SNCOUS6699893002EXTERNALENUS/Software-Engineer-Intern-Infrastructure-Automation-Fall-2023?utm_source=linkedin&utm_medium=phenom-feeds&gh_src=ed5543a62)| San Mateo, CA, Bellevue, WA| Open | Software Engineering Intern
 |[Wealthsimple](https://jobs.lever.co/wealthsimple/daacc715-972c-46ca-b489-31c2bb528192/apply)| Toronto| Open | Software Development Intern
 |[Autodesk](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Intern--Software-Engineer--Fall-2023-_23WD67856-1)| Toronto| Open | Software Engineering Intern
+|[TD](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25404&siteid=5813&jobid=3111581&codes=UE4#jobDetails=3111581_5813)| Toronto| Open | Software Engineering Intern
+|[American Express](https://aexp.eightfold.ai/careers/job/16023109)| Toronto | Open | JavaScript Engineer Intern
+|[BlackBerry](https://bb.wd3.myworkdayjobs.com/en-US/Student/job/Software-Developer-Student---Fall-2023_20230225)| Portland, Irvine, San Ramon, Mountain View | Open | Software Developer Student
 
 ## Other Semesters
 
