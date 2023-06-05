@@ -75,7 +75,7 @@ To contribute:
 |[TD](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25404&siteid=5813&jobid=3111581&codes=UE4#jobDetails=3111581_5813)| Toronto| Open | Software Engineering Intern
 |[American Express](https://aexp.eightfold.ai/careers/job/16023109)| Toronto | 🔒 Closed 🔒 | JavaScript Engineer Intern
 |[BlackBerry](https://bb.wd3.myworkdayjobs.com/en-US/Student/job/Software-Developer-Student---Fall-2023_20230225)| Portland, Irvine, San Ramon, Mountain View | 🔒 Closed 🔒 | Software Developer Student
-| [Google](https://careers.google.com/jobs/results/112296166315434694-software-engineering-intern-bs-fall-2023/?distance=50&employment_type=INTERN) | Multiple Locations | Open | Software Engineer Intern
+| [Google](https://careers.google.com/jobs/results/112296166315434694-software-engineering-intern-bs-fall-2023/?distance=50&employment_type=INTERN) | Multiple Locations | Open | Software Engineering Intern
 
 ## Other Semesters
 
