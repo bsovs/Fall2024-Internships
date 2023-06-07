@@ -66,7 +66,7 @@ To contribute:
 |[Cisco](https://jobs.cisco.com/jobs/SearchJobs/fall?listFilterMode=1)| San Francisco, Chicago, Remote | Open | Software Engineering Interns, various (Labelled as Fall 2024, but description says Fall 2023)
 |[Sealed Air](https://jobs.sealedair.com/job/Streetsboro-Software-Engineering-Co-op-Fall-2023-OH-44241/1005032000/?feedId=204700&utm_source=LinkedInJobPostings&utm_campaign=SealedAir_Linkedin)| Streetsboro, OH |🔒 Closed 🔒| Software Engineering Co-op - Fall 2023
 |[Melaleuca](https://studentcareers-melaleuca.icims.com/jobs/4695/internship-2023---software-development---automation/job?mobile=false&width=1362&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)| Idaho Falls |🔒 Closed 🔒| CI/CD Automation
-|[Lockheed Martin](https://www.lockheedmartinjobs.com/job/-/-/694/45728491488)| Liverpool, New York; Owego, New York | Open | Firmware Engineer
+|[Lockheed Martin](https://www.lockheedmartinjobs.com/job/-/-/694/45728491488)| Liverpool, New York; Owego, New York | 🔒 Closed 🔒 | Firmware Engineer
 |[Chameleon Consulting](https://chameleoncg.com/careers?gnk=job&gni=8a7883ac861fc5f801862d2de138524d&gns=LinkedIn%2BLimited)| Herndon, VA Hybrid |🔒 Closed 🔒 | Networking Engineer
 |[SpaceX](https://boards.greenhouse.io/spacex/jobs/6675035002?gh_jid=6675035002)| Washington. DC, CA, FL, TX, WA| Open | Software Engineering Intern
 |[Snowflake](https://careers.snowflake.com/us/en/job/SNCOUS6699893002EXTERNALENUS/Software-Engineer-Intern-Infrastructure-Automation-Fall-2023?utm_source=linkedin&utm_medium=phenom-feeds&gh_src=ed5543a62)| San Mateo, CA, Bellevue, WA| Open | Software Engineering Intern
