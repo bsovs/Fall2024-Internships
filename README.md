@@ -41,6 +41,7 @@ To contribute:
 
 | Name  |  Location | Application Period | Notes |
 |---|---|-------------|-------------|
+|[AMD](https://www.linkedin.com/jobs/view/3597892956)|Folsom, CA On-site | Open | Fall 2023 Machine Learning/HPC Architect Co-Op/ Intern
 |[Hubspot](https://www.hubspot.com/careers/jobs/3643175?hubs_signup-cta=careers-apply)|Remote|🔒 Closed 🔒|Back End Position|
 |[Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Silicon-Validation-Engineering-Intern---Fall-2023_JR1963068-1)|Santa Clara, CA|🔒 Closed 🔒|Silicon Validation Engineering Intern - Fall 2023
 |[Tesla](https://www.tesla.com/careers/search/job/vehicle-firmware-embedded-systems-engineering-internship-fall-2023-168106?)|In-Person|Open|Back End Position|
