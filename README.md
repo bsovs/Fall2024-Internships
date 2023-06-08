@@ -41,7 +41,7 @@ To contribute:
 
 | Name  |  Location | Application Period | Notes |
 |---|---|-------------|-------------|
-|[Amazon](https://www.amazon.jobs/en/jobs/2348364/2023-fall-applied-science-internship-automated-reasoning-and-storage-systems-united-states-student-science-recruiting?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com)| Seattle, WA | Open | 2023 Fall Applied Science Internship - Automated Reasoning and Storage Systems - United States, Student Science Recruiting
+|[Amazon (PHD Requirement)](https://www.amazon.jobs/en/jobs/2348364/2023-fall-applied-science-internship-automated-reasoning-and-storage-systems-united-states-student-science-recruiting?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com)| Seattle, WA | Open | 2023 Fall Applied Science Internship - Automated Reasoning and Storage Systems - United States, Student Science Recruiting
 |[AMD](https://www.linkedin.com/jobs/view/3597892956)| Folsom, CA | Open | Fall 2023 Machine Learning/HPC Architect Co-Op/ Intern
 |[Hubspot](https://www.hubspot.com/careers/jobs/3643175?hubs_signup-cta=careers-apply)|Remote|🔒 Closed 🔒|Back End Position|
 |[Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Silicon-Validation-Engineering-Intern---Fall-2023_JR1963068-1)|Santa Clara, CA|🔒 Closed 🔒|Silicon Validation Engineering Intern - Fall 2023
