@@ -41,6 +41,8 @@ To contribute:
 
 | Name  |  Location | Application Period | Notes |
 |---|---|-------------|-------------|
+|[Amazon (PHD Requirement)](https://www.amazon.jobs/en/jobs/2348364/2023-fall-applied-science-internship-automated-reasoning-and-storage-systems-united-states-student-science-recruiting?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com)| Seattle, WA | Open | 2023 Fall Applied Science Internship - Automated Reasoning and Storage Systems - United States, Student Science Recruiting
+|[AMD](https://www.linkedin.com/jobs/view/3597892956)| Folsom, CA | Open | Fall 2023 Machine Learning/HPC Architect Co-Op/ Intern
 |[Hubspot](https://www.hubspot.com/careers/jobs/3643175?hubs_signup-cta=careers-apply)|Remote|🔒 Closed 🔒|Back End Position|
 |[Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Silicon-Validation-Engineering-Intern---Fall-2023_JR1963068-1)|Santa Clara, CA|🔒 Closed 🔒|Silicon Validation Engineering Intern - Fall 2023
 |[Tesla](https://www.tesla.com/careers/search/job/vehicle-firmware-embedded-systems-engineering-internship-fall-2023-168106?)|In-Person|Open|Back End Position|
@@ -48,7 +50,7 @@ To contribute:
 |[Johnson & Johnson](https://jnjc.taleo.net/careersection/4/jobdetail.ftl?job=2206082625W&lang=en)|Multiple Locations or Remote|Open|Technology Co-op (Many Positions) (Jun-Dec 2023)
 |[BMW](https://www.bmwgroup.jobs/us/en/jobfinder/job-description.2300001K.html)|Spartanburg, SC|🔒 Closed 🔒|Full Stack Developer Intern
 |[BMW](https://www.bmwgroup.jobs/us/en/jobfinder/job-description.2300002E.html)|Spartanburg, SC (Hybrid)|🔒 Closed 🔒| Software Engineer Co-op
-|[Danbury Mission Technologies](https://recruiting.ultipro.com/DAN1006DMT/JobBoard/0a1c026e-04e8-4606-8220-15f06f331421/OpportunityDetail?opportunityId=da3c15f6-13e5-40e2-9dfa-728fe842c775)|Danbury, CT|Open|Embedded Software Engineering Co-Op
+|[Danbury Mission Technologies](https://recruiting.ultipro.com/DAN1006DMT/JobBoard/0a1c026e-04e8-4606-8220-15f06f331421/OpportunityDetail?opportunityId=da3c15f6-13e5-40e2-9dfa-728fe842c775)|Danbury, CT|🔒 Closed 🔒|Embedded Software Engineering Co-Op
 |[Midmark](https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2154?utm_medium=jobshare)|Versailles, OH or Remote|Open|IT Co-Op Software Development
 |[PCAOB](https://pcaobus.wd1.myworkdayjobs.com/PCAOB/job/Ashburn-VA/Fall-2023-Technology-Intern_R596)|Ashburn, VA or Washington, DC|🔒 Closed 🔒|Technology Intern (Hybrid)
 |[Stoke Space](https://www.stokespace.com/careers/current-openings/?gh_jid=4762467004)|Kent, WA |🔒 Closed 🔒| Software/Avionics Intern - Fall 2023
@@ -66,16 +68,17 @@ To contribute:
 |[Cisco](https://jobs.cisco.com/jobs/SearchJobs/fall?listFilterMode=1)| San Francisco, Chicago, Remote | Open | Software Engineering Interns, various (Labelled as Fall 2024, but description says Fall 2023)
 |[Sealed Air](https://jobs.sealedair.com/job/Streetsboro-Software-Engineering-Co-op-Fall-2023-OH-44241/1005032000/?feedId=204700&utm_source=LinkedInJobPostings&utm_campaign=SealedAir_Linkedin)| Streetsboro, OH |🔒 Closed 🔒| Software Engineering Co-op - Fall 2023
 |[Melaleuca](https://studentcareers-melaleuca.icims.com/jobs/4695/internship-2023---software-development---automation/job?mobile=false&width=1362&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)| Idaho Falls |🔒 Closed 🔒| CI/CD Automation
-|[Lockheed Martin](https://www.lockheedmartinjobs.com/job/-/-/694/45728491488)| Liverpool, New York; Owego, New York | Open | Firmware Engineer
+|[Lockheed Martin](https://www.lockheedmartinjobs.com/job/-/-/694/45728491488)| Liverpool, New York; Owego, New York | 🔒 Closed 🔒 | Firmware Engineer
 |[Chameleon Consulting](https://chameleoncg.com/careers?gnk=job&gni=8a7883ac861fc5f801862d2de138524d&gns=LinkedIn%2BLimited)| Herndon, VA Hybrid |🔒 Closed 🔒 | Networking Engineer
 |[SpaceX](https://boards.greenhouse.io/spacex/jobs/6675035002?gh_jid=6675035002)| Washington. DC, CA, FL, TX, WA| Open | Software Engineering Intern
-|[Snowflake](https://careers.snowflake.com/us/en/job/SNCOUS6699893002EXTERNALENUS/Software-Engineer-Intern-Infrastructure-Automation-Fall-2023?utm_source=linkedin&utm_medium=phenom-feeds&gh_src=ed5543a62)| San Mateo, CA, Bellevue, WA| Open | Software Engineering Intern
+|[Snowflake](https://careers.snowflake.com/us/en/job/SNCOUS6699893002EXTERNALENUS/Software-Engineer-Intern-Infrastructure-Automation-Fall-2023?utm_source=linkedin&utm_medium=phenom-feeds&gh_src=ed5543a62)| San Mateo, CA, Bellevue, WA|🔒 Closed 🔒 | Software Engineering Intern
 |[Wealthsimple](https://jobs.lever.co/wealthsimple/daacc715-972c-46ca-b489-31c2bb528192/apply)| Toronto| Open | Software Development Intern
 |[Autodesk](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Intern--Software-Engineer--Fall-2023-_23WD67856-1)| Toronto| Open | Software Engineering Intern
-|[TD](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25404&siteid=5813&jobid=3111581&codes=UE4#jobDetails=3111581_5813)| Toronto| Open | Software Engineering Intern
+|[TD](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25404&siteid=5813&jobid=3111581&codes=UE4#jobDetails=3111581_5813)| Toronto| 🔒 Closed 🔒 | Software Engineering Intern
 |[American Express](https://aexp.eightfold.ai/careers/job/16023109)| Toronto | 🔒 Closed 🔒 | JavaScript Engineer Intern
 |[BlackBerry](https://bb.wd3.myworkdayjobs.com/en-US/Student/job/Software-Developer-Student---Fall-2023_20230225)| Portland, Irvine, San Ramon, Mountain View | 🔒 Closed 🔒 | Software Developer Student
-| [Google](https://careers.google.com/jobs/results/112296166315434694-software-engineering-intern-bs-fall-2023/?distance=50&employment_type=INTERN) | Multiple Locations | Open | Software Engineering Intern
+|[Anyscale](https://jobs.lever.co/anyscale/78a003a6-221a-4414-bf95-7c734cbfc4d9)| San Francisco, CA | Open | Software Engineering Intern
+|[Google](https://careers.google.com/jobs/results/112296166315434694-software-engineering-intern-bs-fall-2023/?distance=50&employment_type=INTERN) | Multiple Locations | Open | Software Engineering Intern
 
 ## Other Semesters
 
