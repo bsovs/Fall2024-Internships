@@ -78,6 +78,7 @@ To contribute:
 |[American Express](https://aexp.eightfold.ai/careers/job/16023109)| Toronto | 🔒 Closed 🔒 | JavaScript Engineer Intern
 |[BlackBerry](https://bb.wd3.myworkdayjobs.com/en-US/Student/job/Software-Developer-Student---Fall-2023_20230225)| Portland, Irvine, San Ramon, Mountain View | 🔒 Closed 🔒 | Software Developer Student
 |[Anyscale](https://jobs.lever.co/anyscale/78a003a6-221a-4414-bf95-7c734cbfc4d9)| San Francisco, CA | Open | Software Engineering Intern
+|[Google](https://careers.google.com/jobs/results/112296166315434694/)| Mountain View, CA | Open | Software Engineering Intern
 
 ## Other Semesters
 
