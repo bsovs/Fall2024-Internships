@@ -106,6 +106,7 @@ To contribute:
 | [Splunk](https://www.splunk.com/en_us/careers/early-talent.html)| San Jose, CA (Remote Option), Vancouver, BC | Open | Software Engineering Co-op (QA, Android, iOS, AR, Front-end, Back-end) |
 | [LinkedIn](https://www.linkedin.com/jobs/search/?f_C=1337&geoId=103644278&keywords=intern%20fall%202022&location=United%20States) | Sunnyvale, CA or San Francisco, CA or New York, NY | Open | Software Engineer, Systems and Infra Engineer (Backend), UI Engineer, Mobile Engineer
 | [UnitedHealth Group - Optum](https://careers.unitedhealthgroup.com/early-careers-2/programs/technology/) | Twin Cities - MN, Cypress - CA, Irvine - CA, Schaumburg - IL, Basking Ridge - NJ, Hartford - CT, Raleigh - NC, Boston - MA, Phoenix - AZ, Austin - TX | Open | Software Engineering Intern
+| [Microsoft](https://careers.microsoft.com/us/en/job/1573017/Software-Engineer:-Intern-Opportunities%20(Fall-Term)) | Vancouver, BC | Open | Software Engineer: Intern Opportunities (Fall Term)
 
 ## Other Semesters
 
