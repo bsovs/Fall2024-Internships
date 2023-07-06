@@ -77,7 +77,7 @@ To contribute:
 |[TD](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25404&siteid=5813&jobid=3111581&codes=UE4#jobDetails=3111581_5813)| Toronto| 🔒 Closed 🔒 | Software Engineering Intern
 |[American Express](https://aexp.eightfold.ai/careers/job/16023109)| Toronto | 🔒 Closed 🔒 | JavaScript Engineer Intern
 |[BlackBerry](https://bb.wd3.myworkdayjobs.com/en-US/Student/job/Software-Developer-Student---Fall-2023_20230225)| Portland, Irvine, San Ramon, Mountain View | 🔒 Closed 🔒 | Software Developer Student
-|[Anyscale](https://jobs.lever.co/anyscale/78a003a6-221a-4414-bf95-7c734cbfc4d9)| San Francisco, CA | Open | Software Engineering Intern
+|[Anyscale](https://jobs.lever.co/anyscale/78a003a6-221a-4414-bf95-7c734cbfc4d9)| San Francisco, CA | 🔒 Closed 🔒 | Software Engineering Intern
 |[Google](https://careers.google.com/jobs/results/112296166315434694/)| Mountain View, CA | Open | Software Engineering Intern
 |[ByteDance](https://jobs.bytedance.com/en/position/7231352005036362040/detail?spread=BSPP2KS)| San Jose, CA | Open | Software Engineering Intern (Machine Learning Sys-US) - 2023 Fall
 |[American Heart Association](https://www.wayup.com/i-Health-Wellness-and-Fitness-j-Intern-Data-Science-American-Heart-Association-968083251520861/?utm_source=linkedin-xml&utm_medium=jobxml&utm_campaign=linkedin-XML-APPS-5468612-32480223&refer=lnkslot-APPS-5468612-32480223)| Remote | Open | Intern, Data Science
