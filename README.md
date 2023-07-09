@@ -60,7 +60,7 @@ To contribute:
 |[Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/) | Chicago, New York |🔒 Closed 🔒| Same link as Summer 2022, just a dropdown to select Fall 
 |[Ansys](https://careers.ansys.com/job/Vancouver-Fall-2023-Co-Op-DevOps-Lumerical-%28Bachelors%29-REMOTE-Brit-V6E2M6/981250300/?utm_source=LINKEDIN&utm_medium=referrer)| Vancouver, Remote | 🔒 Closed 🔒 | DevOps
 |[UKG](https://careers.ukg.com/careers/ApplicationMethods?jobId=44121)| Multiple Locations | Open | Software Engineering Intern
-|[Jane Street](https://www.janestreet.com/join-jane-street/position/6483148002/)| New York, NY | Open | Software Engineer Intern (Sepetember to December)
+|[Jane Street](https://www.janestreet.com/join-jane-street/position/6483148002/)| New York, NY | 🔒 Closed 🔒 | Software Engineer Intern (Sepetember to December)
 |[Amazon Robotics](https://www.amazon.jobs/en/jobs/2330094/amazon-robotics-software-development-engineer-sde-co-op-fall-2023?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com)| Toronto |🔒 Closed 🔒| SDE Co-op
 |[Amazon Robotics](https://www.amazon.jobs/en/jobs/2345448/amazon-robotics-front-end-engineer-fee-co-op-fall-2023)|Boston, MA|Open| Front End Engineer Co-op
 |[The Hershey Company](https://careers.thehersheycompany.com/job/Hershey-Data-Science-Co-Op-%28Fall-2023%29-PA-17033/1004180700/)| Virtual with possible travel to Hershey, PA | 🔒 Closed 🔒 | Data Science Co-Op (Fall 2023)
@@ -77,7 +77,7 @@ To contribute:
 |[TD](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25404&siteid=5813&jobid=3111581&codes=UE4#jobDetails=3111581_5813)| Toronto| 🔒 Closed 🔒 | Software Engineering Intern
 |[American Express](https://aexp.eightfold.ai/careers/job/16023109)| Toronto | 🔒 Closed 🔒 | JavaScript Engineer Intern
 |[BlackBerry](https://bb.wd3.myworkdayjobs.com/en-US/Student/job/Software-Developer-Student---Fall-2023_20230225)| Portland, Irvine, San Ramon, Mountain View | 🔒 Closed 🔒 | Software Developer Student
-|[Anyscale](https://jobs.lever.co/anyscale/78a003a6-221a-4414-bf95-7c734cbfc4d9)| San Francisco, CA | Open | Software Engineering Intern
+|[Anyscale](https://jobs.lever.co/anyscale/78a003a6-221a-4414-bf95-7c734cbfc4d9)| San Francisco, CA | 🔒 Closed 🔒 | Software Engineering Intern
 |[Google](https://careers.google.com/jobs/results/112296166315434694/)| Mountain View, CA | Open | Software Engineering Intern
 |[ByteDance](https://jobs.bytedance.com/en/position/7231352005036362040/detail?spread=BSPP2KS)| San Jose, CA | Open | Software Engineering Intern (Machine Learning Sys-US) - 2023 Fall
 |[American Heart Association](https://www.wayup.com/i-Health-Wellness-and-Fitness-j-Intern-Data-Science-American-Heart-Association-968083251520861/?utm_source=linkedin-xml&utm_medium=jobxml&utm_campaign=linkedin-XML-APPS-5468612-32480223&refer=lnkslot-APPS-5468612-32480223)| Remote | Open | Intern, Data Science
