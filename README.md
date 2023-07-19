@@ -42,16 +42,16 @@ To contribute:
 | Name  |  Location | Application Period | Notes |
 |---|---|-------------|-------------|
 |[Amazon (PHD Requirement)](https://www.amazon.jobs/en/jobs/2348364/2023-fall-applied-science-internship-automated-reasoning-and-storage-systems-united-states-student-science-recruiting?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com)| Seattle, WA | Open | 2023 Fall Applied Science Internship - Automated Reasoning and Storage Systems - United States, Student Science Recruiting
-|[AMD](https://www.linkedin.com/jobs/view/3597892956)| Folsom, CA | Open | Fall 2023 Machine Learning/HPC Architect Co-Op/ Intern
+|[AMD](https://www.linkedin.com/jobs/view/3597892956)| Folsom, CA | 🔒 Closed 🔒 | Fall 2023 Machine Learning/HPC Architect Co-Op/ Intern
 |[Hubspot](https://www.hubspot.com/careers/jobs/3643175?hubs_signup-cta=careers-apply)|Remote|🔒 Closed 🔒|Back End Position|
 |[Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Silicon-Validation-Engineering-Intern---Fall-2023_JR1963068-1)|Santa Clara, CA|🔒 Closed 🔒|Silicon Validation Engineering Intern - Fall 2023
 |[Tesla](https://www.tesla.com/careers/search/job/vehicle-firmware-embedded-systems-engineering-internship-fall-2023-168106?)|In-Person|Open|Back End Position|
 |[General Electric](https://jobs.gecareers.com/aviation/global/en/job/GE11GLOBALR3630709EXTERNALENGLOBAL/GE-Aviation-Systems-Engineering-Co-op-Fall-2023)|Multiple|🔒 Closed 🔒|Systems Engineering Intern
-|[Johnson & Johnson](https://jnjc.taleo.net/careersection/4/jobdetail.ftl?job=2206082625W&lang=en)|Multiple Locations or Remote|Open|Technology Co-op (Many Positions) (Jun-Dec 2023)
+|[Johnson & Johnson](https://jnjc.taleo.net/careersection/4/jobdetail.ftl?job=2206082625W&lang=en)|Multiple Locations or Remote|🔒 Closed 🔒|Technology Co-op (Many Positions) (Jun-Dec 2023)
 |[BMW](https://www.bmwgroup.jobs/us/en/jobfinder/job-description.2300001K.html)|Spartanburg, SC|🔒 Closed 🔒|Full Stack Developer Intern
 |[BMW](https://www.bmwgroup.jobs/us/en/jobfinder/job-description.2300002E.html)|Spartanburg, SC (Hybrid)|🔒 Closed 🔒| Software Engineer Co-op
 |[Danbury Mission Technologies](https://recruiting.ultipro.com/DAN1006DMT/JobBoard/0a1c026e-04e8-4606-8220-15f06f331421/OpportunityDetail?opportunityId=da3c15f6-13e5-40e2-9dfa-728fe842c775)|Danbury, CT|🔒 Closed 🔒|Embedded Software Engineering Co-Op
-|[Midmark](https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2154?utm_medium=jobshare)|Versailles, OH or Remote|Open|IT Co-Op Software Development
+|[Midmark](https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2154?utm_medium=jobshare)|Versailles, OH or Remote|🔒 Closed 🔒|IT Co-Op Software Development
 |[PCAOB](https://pcaobus.wd1.myworkdayjobs.com/PCAOB/job/Ashburn-VA/Fall-2023-Technology-Intern_R596)|Ashburn, VA or Washington, DC|🔒 Closed 🔒|Technology Intern (Hybrid)
 |[Stoke Space](https://www.stokespace.com/careers/current-openings/?gh_jid=4762467004)|Kent, WA |🔒 Closed 🔒| Software/Avionics Intern - Fall 2023
 |[Waystar](https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta/Application-Engineer-Co-Op---Summer-or-Fall-of-2023_R735)|Atlanta, GA |🔒 Closed 🔒| Application Engineer Co-Op
@@ -72,7 +72,7 @@ To contribute:
 |[Chameleon Consulting](https://chameleoncg.com/careers?gnk=job&gni=8a7883ac861fc5f801862d2de138524d&gns=LinkedIn%2BLimited)| Herndon, VA Hybrid |🔒 Closed 🔒 | Networking Engineer
 |[SpaceX](https://boards.greenhouse.io/spacex/jobs/6675035002?gh_jid=6675035002)| Washington. DC, CA, FL, TX, WA| Open | Software Engineering Intern
 |[Snowflake](https://careers.snowflake.com/us/en/job/SNCOUS6699893002EXTERNALENUS/Software-Engineer-Intern-Infrastructure-Automation-Fall-2023?utm_source=linkedin&utm_medium=phenom-feeds&gh_src=ed5543a62)| San Mateo, CA, Bellevue, WA|🔒 Closed 🔒 | Software Engineering Intern
-|[Wealthsimple](https://jobs.lever.co/wealthsimple/daacc715-972c-46ca-b489-31c2bb528192/apply)| Toronto| Open | Software Development Intern
+|[Wealthsimple](https://jobs.lever.co/wealthsimple/daacc715-972c-46ca-b489-31c2bb528192/apply)| Toronto| 🔒 Closed 🔒 | Software Development Intern
 |[Autodesk](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Intern--Software-Engineer--Fall-2023-_23WD67856-1)| Toronto| Open | Software Engineering Intern
 |[TD](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25404&siteid=5813&jobid=3111581&codes=UE4#jobDetails=3111581_5813)| Toronto| 🔒 Closed 🔒 | Software Engineering Intern
 |[American Express](https://aexp.eightfold.ai/careers/job/16023109)| Toronto | 🔒 Closed 🔒 | JavaScript Engineer Intern
@@ -82,7 +82,7 @@ To contribute:
 |[ByteDance](https://jobs.bytedance.com/en/position/7231352005036362040/detail?spread=BSPP2KS)| San Jose, CA | Open | Software Engineering Intern (Machine Learning Sys-US) - 2023 Fall
 |[American Heart Association](https://www.wayup.com/i-Health-Wellness-and-Fitness-j-Intern-Data-Science-American-Heart-Association-968083251520861/?utm_source=linkedin-xml&utm_medium=jobxml&utm_campaign=linkedin-XML-APPS-5468612-32480223&refer=lnkslot-APPS-5468612-32480223)| Remote | Open | Intern, Data Science
 |[GTS](https://careers-gtsx.icims.com/jobs/1359/job?utm_source=indeed_integration&iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&mobile=false&width=1220&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)| New York, NY | Open | Quantitative Researcher - Fall 2023 Internship
-|[Ultimate Kronos Group](https://app.ripplematch.com/v2/public/job/860966dc/details?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=ukg&utm_term=null)| Weston, FL <br> Branchburg, NJ | Open | Software Engineer Intern (Fall 2023)
+|[Ultimate Kronos Group](https://app.ripplematch.com/v2/public/job/860966dc/details?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=ukg&utm_term=null)| Weston, FL <br> Branchburg, NJ | 🔒 Closed 🔒 | Software Engineer Intern (Fall 2023)
 
 ## Other Semesters
 
