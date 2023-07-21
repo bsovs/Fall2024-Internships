@@ -72,7 +72,7 @@ To contribute:
 |[Chameleon Consulting](https://chameleoncg.com/careers?gnk=job&gni=8a7883ac861fc5f801862d2de138524d&gns=LinkedIn%2BLimited)| Herndon, VA Hybrid |🔒 Closed 🔒 | Networking Engineer
 |[SpaceX](https://boards.greenhouse.io/spacex/jobs/6675035002?gh_jid=6675035002)| Washington. DC, CA, FL, TX, WA| Open | Software Engineering Intern
 |[Snowflake](https://careers.snowflake.com/us/en/job/SNCOUS6699893002EXTERNALENUS/Software-Engineer-Intern-Infrastructure-Automation-Fall-2023?utm_source=linkedin&utm_medium=phenom-feeds&gh_src=ed5543a62)| San Mateo, CA, Bellevue, WA|🔒 Closed 🔒 | Software Engineering Intern
-|[Wealthsimple](https://jobs.lever.co/wealthsimple/daacc715-972c-46ca-b489-31c2bb528192/apply)| Toronto| Open | Software Development Intern
+|[Wealthsimple](https://jobs.lever.co/wealthsimple/daacc715-972c-46ca-b489-31c2bb528192/apply)| Toronto| 🔒 Closed 🔒 | Software Development Intern
 |[Autodesk](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Intern--Software-Engineer--Fall-2023-_23WD67856-1)| Toronto| Open | Software Engineering Intern
 |[TD](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25404&siteid=5813&jobid=3111581&codes=UE4#jobDetails=3111581_5813)| Toronto| 🔒 Closed 🔒 | Software Engineering Intern
 |[American Express](https://aexp.eightfold.ai/careers/job/16023109)| Toronto | 🔒 Closed 🔒 | JavaScript Engineer Intern
