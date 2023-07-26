@@ -83,6 +83,8 @@ To contribute:
 |[American Heart Association](https://www.wayup.com/i-Health-Wellness-and-Fitness-j-Intern-Data-Science-American-Heart-Association-968083251520861/?utm_source=linkedin-xml&utm_medium=jobxml&utm_campaign=linkedin-XML-APPS-5468612-32480223&refer=lnkslot-APPS-5468612-32480223)| Remote | 🔒 Closed 🔒 | Intern, Data Science
 |[GTS](https://careers-gtsx.icims.com/jobs/1359/job?utm_source=indeed_integration&iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&mobile=false&width=1220&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)| New York, NY | Open | Quantitative Researcher - Fall 2023 Internship
 |[Ultimate Kronos Group](https://app.ripplematch.com/v2/public/job/860966dc/details?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=ukg&utm_term=null)| Weston, FL <br> Branchburg, NJ | 🔒 Closed 🔒 | Software Engineer Intern (Fall 2023)
+|[Moog, Inc](https://moog.referrals.selectminds.com/jobs/fall-2023-software-engineering-internship-10193?utm_source=ziprecruiter)| Elma, NY <br> Gilbert, AZ <br> Goleta, CA <br> Torrance, CA | Open | Fall 2023 Software Engineering Internship
+|[Oshkosh](https://app.ripplematch.com/v2/public/job/bf177011/details?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=oshkosh&utm_term=null)| Oshkosh, WI | Open | Digital Technology Intern
 
 ## Other Semesters
 
