@@ -85,6 +85,7 @@ To contribute:
 |[Ultimate Kronos Group](https://app.ripplematch.com/v2/public/job/860966dc/details?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=ukg&utm_term=null)| Weston, FL <br> Branchburg, NJ | 🔒 Closed 🔒 | Software Engineer Intern (Fall 2023)
 |[Moog, Inc](https://moog.referrals.selectminds.com/jobs/fall-2023-software-engineering-internship-10193?utm_source=ziprecruiter)| Elma, NY <br> Gilbert, AZ <br> Goleta, CA <br> Torrance, CA | Open | Fall 2023 Software Engineering Internship
 |[Oshkosh](https://app.ripplematch.com/v2/public/job/bf177011/details?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=oshkosh&utm_term=null)| Oshkosh, WI | Open | Digital Technology Intern
+|[Datadog](https://app.ripplematch.com/v2/public/job/8fb127ea/details?utm_source=RM&utm_medium=organic_social&utm_campaign=growth_github&utm_content=role&utm_term=null)| New York, NY | Open | Software Engineer Intern (Fall)
 
 ## Other Semesters
 
