@@ -65,5 +65,5 @@ To contribute:
 
 ## Contributors
 
-jdkuffa
+jdkuffa <3
 
