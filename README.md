@@ -43,7 +43,7 @@ To contribute:
 
 ## The List 👔
 
-| Name  |  Location | Application Period | Notes |
+| Name  |  Location  | Application Period | Notes |
 |---|---|-------------|-------------|
 |[Astranis](https://simplify.jobs/p/32567b79-e4ee-4a71-bf95-11a392999a71/Software-Developer--Intern-NetworkPayload-Software-Summer-2024)| San Francisco, CA | Open | Software Developer – Intern
 |[Astranis](https://simplify.jobs/p/3522dad6-9198-4047-9211-3b26a01e6880/Flight-Software-Engineer--Intern-Fall-2024)| San Francisco, CA | Open | Flight Software Engineer – Intern
