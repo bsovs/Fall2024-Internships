@@ -45,6 +45,7 @@ To contribute:
 
 | Name | Location | Application Period | Notes |
 |---|-------------|-------------|-------------|
+|[Magna International](https://jobs.magna.com/job/Troy-Data-Scientist-Intern-MICH-48083/582004317/)| Troy, Michigan | Open | Data Scientist Intern
 |[Astranis](https://simplify.jobs/p/32567b79-e4ee-4a71-bf95-11a392999a71/Software-Developer--Intern-NetworkPayload-Software-Summer-2024)| San Francisco, CA | 🔒 Closed 🔒 | Software Developer – Intern
 |[Astranis](https://simplify.jobs/p/3522dad6-9198-4047-9211-3b26a01e6880/Flight-Software-Engineer--Intern-Fall-2024)| San Francisco, CA | Open | Flight Software Engineer – Intern
 |[SpaceX](https://boards.greenhouse.io/spacex/jobs/7268802002?gh_jid=7268802002&gh_src=d88665492us)| <details><summary>**8 locations**</summary>Austin, TX<br /> Irvine, CA<br /> Cape Canaveral, FL<br /> Brownsville, TX<br /> Redmond, WA<br /> McGregor, TX<br /> West Athens, CA<br /> Sunnyvale, CA | Open | Fall 2024 Software Engineering Internship/Co-op
